@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+
+04-Sep-2004 -- We began our expedition on Saturday, September 4th, 2004. At 11 o'clock we left Bucharest for Focsani on DN 2 (European Road 85). The GPS showed that we were at 185 km from the confluence North 46 with East 27. We drove through the cities of Urziceni, Buzau, Ramnicu Sarat and, after three hours of driving and 200 km, we reached Focsani, at 35 km from the confluence point, in the county of Vrancea
+
+We continued our journey, heading west, towards Panciu. Passing through the villages of Muncelu and Straoane, the distance to confluence point decreased to almost 5 km. The closest area of the road to the confluence ( 4.8 km ) is in the vicinity of the Ecaterina Teodoroiu monument (Romanian female hero of the First World War). Because a dirtroad started right at the monument (on the right coming from Panciu) and seemed to head exactly towards the target point (direction North-North-West), we left the car and continued our trip on foot on the Dealu Mare hill.
+
+Luckily, this cart road kept us on the right heading, passing through the villagers' pastures, cornfields and vineyards. After about 3 km, we entered the forest, and at a crossroad (1 km from the confluence) we took the road which kept us going towards North-East. As we walked into the oak wood the road changed into a path , which we left at about 300 m from the confluence because we were getting away from it. We were surprised to meet a deer, which wandered away quickly as it saw us. We started descending a slope towards North-East-East and, after an hour of walking - from the monument - we reached our target, deep into the forest.
+
+Needless to say that, because of the treetop cover, we had poor satellite coverage, but we managed to locate the confluence with a 10-15 m error, after some wandering around. It lays about the western cliff of a 15 m deep ravine , on the bottom of which we saw a dry riverbed. The steep slope and the thick carpet of fallen leaves hindered the descent and very precise determination of the confluence point, but we managed to pinpoint and take photos within sufficient accuracy from 'zero point' . We congratulated ourselves and made the necessary photos to immortalize for eternity our conquest.
+
+The return journey was easy, because we knew already the area. By nightfall we were back in Bucharest. In this region fierce battles took place in the year 1917 (Marasti, Marasesti, Oituz) between the Romanian and Russian armies, on one side and the German and Austro-Hungarian ones, on the other. Before starting our trek, we visited the impressing mausoleum at Marasti, at 20 km of Panciu.
+
+</TEXT>
+<TAGS>
+<PLACE id="pl22" text="Dealu Mare hill" start="966" end="981"/>
+<PLACE id="pl23" text="pastures" start="1069" end="1077"/>
+<PLACE id="pl24" text="cornfields" start="1079" end="1089"/>
+<PLACE id="pl25" text="vineyards" start="1094" end="1103"/>
+<PLACE id="pl20" text="Panciu" start="822" end="828"/>
+<PLACE id="pl21" text="point" start="876" end="881"/>
+<PLACE id="pl19" text="monument" start="787" end="795"/>
+<PLACE id="pl15" text="point" start="555" end="560"/>
+<PLACE id="pl16" text="confluence" start="623" end="633"/>
+<PLACE id="pl17" text="vicinity" start="655" end="663"/>
+<PLACE id="pl18" text="Ecaterina Teodoroiu monument" start="671" end="699"/>
+<SPATIAL_SIGNAL id="s0" text="at" start="175" end="177" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se1" text="we" start="89" end="91"/>
+<SPATIAL_ENTITY id="se0" text="We" start="17" end="19"/>
+<SPATIAL_SIGNAL id="s2" text="at" start="356" end="358" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se25" text="it" start="1463" end="1465"/>
+<SPATIAL_ENTITY id="se3" text="We" start="228" end="230"/>
+<SPATIAL_ENTITY id="se2" text="we" start="167" end="169"/>
+<SPATIAL_ENTITY id="se24" text="we" start="2548" end="2550"/>
+<SPATIAL_SIGNAL id="s4" text="in" start="392" end="394" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se5" text="We" start="418" end="420"/>
+<SPATIAL_ENTITY id="se27" text="we" start="1678" end="1680"/>
+<SPATIAL_ENTITY id="se26" text="us" start="1470" end="1472"/>
+<SPATIAL_ENTITY id="se4" text="we" start="336" end="338"/>
+<SPATIAL_SIGNAL id="s6" text="in" start="648" end="650" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se7" text="car" start="924" end="927"/>
+<SPATIAL_ENTITY id="se21" text="we" start="2038" end="2040"/>
+<SPATIAL_ENTITY id="se20" text="carpet" start="1933" end="1939"/>
+<SPATIAL_ENTITY id="se6" text="we" start="912" end="914"/>
+<SPATIAL_SIGNAL id="s8" text="on the right" start="797" end="809" semantic_type="DIRECTIONAL"/>
+<SPATIAL_ENTITY id="se9" text="we" start="1123" end="1125"/>
+<SPATIAL_ENTITY id="se23" text="we" start="2300" end="2302"/>
+<SPATIAL_ENTITY id="se8" text="us" start="1013" end="1015"/>
+<SPATIAL_ENTITY id="se22" text="we" start="2261" end="2263"/>
+<PLACE id="pl11" text="Panciu" start="466" end="472"/>
+<PLACE id="pl12" text="villages" start="494" end="502"/>
+<PLACE id="pl13" text="Muncelu" start="506" end="513"/>
+<PLACE id="pl14" text="Straoane" start="518" end="526"/>
+<SPATIAL_ENTITY id="se29" text="We" start="2124" end="2126"/>
+<SPATIAL_ENTITY id="se28" text="we" start="1880" end="1882"/>
+<PLACE id="pl10" text="Vrancea" start="409" end="416"/>
+<PLACE id="pl44" text="Panciu" start="2608" end="2614"/>
+<PLACE id="pl45" text="zero point" start="2110" end="2120"/>
+<MOTION_SIGNAL id="ms1" text="on" start="119" end="121"/>
+<MOTION_SIGNAL id="ms0" text="for" start="107" end="110"/>
+<PLACE id="pl40" text="Bucharest" start="2316" end="2325"/>
+<MOTION id="m11" text="entered" start="1126" end="1133"/>
+<MOTION_SIGNAL id="ms3" text="towards" start="458" end="465"/>
+<PLACE id="pl41" text="region" start="2335" end="2341"/>
+<MOTION id="m10" text="passing" start="1038" end="1045"/>
+<MOTION_SIGNAL id="ms2" text="through" start="237" end="244"/>
+<PLACE id="pl42" text="mausoleum" start="2574" end="2583"/>
+<MOTION id="m13" text="going" start="1223" end="1228"/>
+<MOTION_SIGNAL id="ms5" text="from" start="817" end="821"/>
+<PLACE id="pl43" text="Marasti" start="2587" end="2594"/>
+<MOTION id="m12" text="took" start="1195" end="1199"/>
+<MOTION_SIGNAL id="ms4" text="through" start="482" end="489"/>
+<MOTION id="m15" text="getting" start="1376" end="1383"/>
+<MOTION_SIGNAL id="ms7" text="direction North-North-West" start="883" end="909"/>
+<MOTION id="m14" text="left" start="1320" end="1324"/>
+<MOTION_SIGNAL id="ms6" text="towards" start="857" end="864"/>
+<MOTION id="m17" text="descending" start="1485" end="1495"/>
+<MOTION_SIGNAL id="ms9" text="on" start="959" end="961"/>
+<MOTION id="m16" text="wandered" start="1438" end="1446"/>
+<MOTION_SIGNAL id="ms8" text="on foot" start="951" end="958"/>
+<PLACE id="pl37" text="point" start="2027" end="2032"/>
+<MOTION id="m19" text="reached" start="1583" end="1590"/>
+<PLACE id="pl38" text="area" start="2281" end="2285"/>
+<MOTION id="m18" text="walking" start="1550" end="1557"/>
+<MOTION_SIGNAL id="ms22" text="at" start="780" end="782"/>
+<MOTION_SIGNAL id="ms21" text="west" start="452" end="456"/>
+<MOTION_SIGNAL id="ms20" text="around" start="1793" end="1799"/>
+<MOTION id="m0" text="expedition" start="30" end="40"/>
+<MOTION id="m1" text="left" start="92" end="96"/>
+<MOTION id="m2" text="drove" start="231" end="236"/>
+<MOTION id="m3" text="driving" start="316" end="323"/>
+<MOTION id="m4" text="reached" start="339" end="346"/>
+<PLACE id="pl33" text="target" start="1595" end="1601"/>
+<MOTION id="m5" text="journey" start="435" end="442"/>
+<PLACE id="pl34" text="forest" start="1617" end="1623"/>
+<MOTION id="m6" text="coming" start="810" end="816"/>
+<PLACE id="pl35" text="confluence" start="1739" end="1749"/>
+<MOTION id="m20" text="locate" start="1728" end="1734"/>
+<MOTION id="m7" text="head" start="844" end="848"/>
+<PLACE id="pl36" text="It" start="1801" end="1803"/>
+<NONMOTION_EVENT id="e0" text="lays" start="1804" end="1808"/>
+<MOTION id="m8" text="left" start="915" end="919"/>
+<NONMOTION_EVENT id="e1" text="battles" start="2349" end="2356"/>
+<MOTION id="m22" text="descent" start="1970" end="1977"/>
+<MOTION id="m9" text="trip" start="946" end="950"/>
+<PLACE id="pl30" text="confluence" start="1349" end="1359"/>
+<NONMOTION_EVENT id="e2" text="Marasti" start="2386" end="2393"/>
+<MOTION id="m21" text="wandering" start="1783" end="1792"/>
+<PLACE id="pl31" text="it" start="1394" end="1396"/>
+<NONMOTION_EVENT id="e3" text="Marasesti" start="2395" end="2404"/>
+<MOTION id="m24" text="heading" start="444" end="451"/>
+<PLACE id="pl32" text="monument" start="1569" end="1577"/>
+<NONMOTION_EVENT id="e4" text="Oituz" start="2406" end="2411"/>
+<MOTION id="m23" text="journey" start="2235" end="2242"/>
+<MOTION id="m26" text="walked" start="1255" end="1261"/>
+<NONMOTION_EVENT id="e6" text="pinpoint" start="2052" end="2060"/>
+<MOTION id="m25" text="Passing" start="474" end="481"/>
+<NONMOTION_EVENT id="e7" text="take" start="2065" end="2069"/>
+<MOTION id="m28" text="visited" start="2551" end="2558"/>
+<MOTION id="m27" text="trek" start="2542" end="2546"/>
+<PLACE id="pl26" text="forest" start="1138" end="1144"/>
+<MOTION_SIGNAL id="ms12" text="towards North-East" start="1229" end="1247"/>
+<PLACE id="pl27" text="crossroad" start="1155" end="1164"/>
+<MOTION id="m29" text="meet" start="1419" end="1423"/>
+<MOTION_SIGNAL id="ms11" text="at" start="1150" end="1152"/>
+<PLACE id="pl28" text="confluence" start="1180" end="1190"/>
+<MOTION_SIGNAL id="ms10" text="through" start="1046" end="1053"/>
+<PLACE id="pl29" text="wood" start="1275" end="1279"/>
+<MOTION_SIGNAL id="ms16" text="from" start="1389" end="1393"/>
+<MOTION_SIGNAL id="ms15" text="away" start="1384" end="1388"/>
+<MOTION_SIGNAL id="ms13" text="into" start="1262" end="1266"/>
+<MOTION_SIGNAL id="ms19" text="from" start="1560" end="1564"/>
+<MOTION_SIGNAL id="ms18" text="towards North-East-East" start="1504" end="1527"/>
+<MOTION_SIGNAL id="ms17" text="away" start="1447" end="1451"/>
+<MOTION id="m30" text="started" start="766" end="773"/>
+<PATH id="p10" text="path" start="1304" end="1308"/>
+<PATH id="p12" text="cliff" start="1827" end="1832"/>
+<PATH id="p11" text="slope" start="1498" end="1503"/>
+<PATH id="p14" text="bottom" start="1864" end="1870"/>
+<PATH id="p13" text="ravine" start="1848" end="1854"/>
+<PATH id="p16" text="slope" start="1913" end="1918"/>
+<PATH id="p15" text="riverbed" start="1893" end="1901"/>
+<PLACE id="pl1" text="Focsani" start="111" end="118"/>
+<PLACE id="pl0" text="Bucharest" start="97" end="106"/>
+<PLACE id="pl3" text="cities" start="249" end="255"/>
+<PLACE id="pl2" text="confluence" start="194" end="204"/>
+<PLACE id="pl5" text="Buzau" start="269" end="274"/>
+<PLACE id="pl4" text="Urziceni" start="259" end="267"/>
+<PLACE id="pl7" text="Focsani" start="347" end="354"/>
+<PLACE id="pl6" text="Ramnicu Sarat" start="276" end="289"/>
+<PLACE id="pl9" text="county" start="399" end="405"/>
+<PLACE id="pl8" text="point" start="385" end="390"/>
+<PATH id="p0" text="DN 2" start="122" end="126"/>
+<SPATIAL_ENTITY id="se14" text="we" start="1368" end="1370"/>
+<PATH id="p1" text="European Road 85" start="128" end="144"/>
+<SPATIAL_ENTITY id="se13" text="we" start="1317" end="1319"/>
+<PATH id="p2" text="North 46" start="205" end="213"/>
+<SPATIAL_ENTITY id="se16" text="deer" start="1426" end="1430"/>
+<PATH id="p3" text="East 27" start="219" end="226"/>
+<SPATIAL_ENTITY id="se15" text="We" start="1398" end="1400"/>
+<PATH id="p4" text="area" start="599" end="603"/>
+<SPATIAL_ENTITY id="se10" text="we" start="1192" end="1194"/>
+<PATH id="p5" text="road" start="611" end="615"/>
+<PATH id="p6" text="dirtroad" start="757" end="765"/>
+<SPATIAL_ENTITY id="se12" text="we" start="1252" end="1254"/>
+<PATH id="p7" text="road" start="1003" end="1007"/>
+<SPATIAL_ENTITY id="se11" text="us" start="1220" end="1222"/>
+<PATH id="p8" text="road" start="1204" end="1208"/>
+<PATH id="p9" text="road" start="1284" end="1288"/>
+<SPATIAL_ENTITY id="se18" text="we" start="1580" end="1582"/>
+<SPATIAL_ENTITY id="se17" text="We" start="1474" end="1476"/>
+<SPATIAL_ENTITY id="se19" text="we" start="1714" end="1716"/>
+<SPATIAL_SIGNAL id="s11" text="into" start="1608" end="1612" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s12" text="about" start="1809" end="1814" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s15" text="in" start="2313" end="2315" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s14" text="on" start="1857" end="1859" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s17" text="at" start="2584" end="2586" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s16" text="In" start="2327" end="2329" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s18" text="at" start="2596" end="2598" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s20" text="to" start="616" end="618" semantic_type="DIRECTIONAL"/>
+<SPATIAL_SIGNAL id="s23" text="at" start="1325" end="1327" semantic_type="TOPOLOGICAL"/>
+<QSLINK id="qsl0" fromID="p4" fromText="area" toID="pl17" toText="vicinity" trajector="p4" landmark="pl17" trigger="s6"/>
+<OLINK id="ol0" fromID="p4" fromText="area" toID="pl16" toText="confluence" trajector="p4" landmark="pl16" trigger="s20"/>
+<QSLINK id="qsl1" fromID="pl33" fromText="target" toID="pl34" toText="forest" trajector="pl33" landmark="pl34" trigger="s11"/>
+<QSLINK id="qsl2" fromID="e1" fromText="battles" toID="pl41" toText="region" trajector="e1" landmark="pl41" trigger="s16"/>
+<QSLINK id="qsl3" fromID="pl18" fromText="Ecaterina Teodoroiu monument" toID="pl16" toText="confluence" trajector="pl18" landmark="pl16" trigger="s6"/>
+<QSLINK id="qsl4" fromID="p5" fromText="road" toID="pl17" toText="vicinity" trajector="p5" landmark="pl17" trigger="s6"/>
+<QSLINK id="qsl5" fromID="pl2" fromText="confluence" toID="p2" toText="North 46" trajector="pl2" landmark="p2" trigger=""/>
+<QSLINK id="qsl6" fromID="se23" fromText="we" toID="pl40" toText="Bucharest" trajector="se23" landmark="pl40" trigger="s15"/>
+<OLINK id="ol1" fromID="pl19" fromText="monument" toID="m6" toText="coming" trajector="pl19" landmark="m6" trigger="s8"/>
+<OLINK id="ol2" fromID="p5" fromText="road" toID="pl16" toText="confluence" trajector="p5" landmark="pl16" trigger="s20"/>
+<QSLINK id="qsl7" fromID="p4" fromText="area" toID="p5" toText="road" trajector="p4" landmark="p5" trigger=""/>
+<QSLINK id="qsl8" fromID="pl42" fromText="mausoleum" toID="pl43" toText="Marasti" trajector="pl42" landmark="pl43" trigger="s17"/>
+<QSLINK id="qsl9" fromID="pl18" fromText="Ecaterina Teodoroiu monument" toID="pl17" toText="vicinity" trajector="pl18" landmark="pl17" trigger="s6"/>
+<OLINK id="ol3" fromID="pl18" fromText="Ecaterina Teodoroiu monument" toID="p5" toText="road" trajector="pl18" landmark="p5" trigger="s20"/>
+<QSLINK id="qsl10" fromID="pl18" fromText="Ecaterina Teodoroiu monument" toID="p5" toText="road" trajector="pl18" landmark="p5" trigger="s6"/>
+<OLINK id="ol4" fromID="pl18" fromText="Ecaterina Teodoroiu monument" toID="pl16" toText="confluence" trajector="pl18" landmark="pl16" trigger="s20"/>
+<MOVELINK id="mvl0" fromID="m13" fromText="going" toID="se10" toText="we" trigger="m13" mover="se10" motion_signalID="ms12" source="pl27"/>
+<MOVELINK id="mvl1" fromID="m24" fromText="heading" toID="se4" toText="we" trigger="m24" mover="se4" goal="pl11" motion_signalID="ms21, ms3"/>
+<MOVELINK id="mvl2" fromID="m24" fromText="heading" toID="se5" toText="We" trigger="m24" mover="se5" goal="pl11" motion_signalID="ms21, ms3"/>
+<MOVELINK id="mvl3" fromID="m14" fromText="left" toID="se13" toText="we" trigger="m14" mover="se13" landmark="pl31" source="p10"/>
+<MOVELINK id="mvl4" fromID="m30" fromText="started" toID="p6" toText="dirtroad" trigger="m30" mover="p6" motion_signalID="ms22" source="pl19"/>
+<MOVELINK id="mvl5" fromID="m0" fromText="expedition" toID="se0" toText="We" trigger="m0" mover="se0"/>
+<MOVELINK id="mvl6" fromID="m14" fromText="left" toID="se14" toText="we" trigger="m14" mover="se14" source="p10"/>
+<MOVELINK id="mvl7" fromID="m7" fromText="head" toID="p6" toText="dirtroad" trigger="m7" mover="p6" goal="pl21" motion_signalID="ms6, ms7" source="pl19"/>
+<MOVELINK id="mvl8" fromID="m19" fromText="reached" toID="se18" toText="we" trigger="m19" mover="se18" goal="pl33" source="pl32"/>
+<MOVELINK id="mvl9" fromID="m19" fromText="reached" toID="se17" toText="We" trigger="m19" mover="se17" source="pl32"/>
+<MOVELINK id="mvl10" fromID="m13" fromText="going" toID="se11" toText="us" trigger="m13" mover="se11" motion_signalID="ms12" source="pl27"/>
+<MOVELINK id="mvl11" fromID="m21" fromText="wandering" toID="se19" toText="we" trigger="m21" mover="se19" motion_signalID="ms20"/>
+<MOVELINK id="mvl12" fromID="m23" fromText="journey" toID="se22" toText="we" trigger="m23" mover="se22"/>
+<MOVELINK id="mvl13" fromID="m30" fromText="started" toID="se6" toText="we" trigger="m30" mover="se6" motion_signalID="ms22" source="pl19"/>
+<MOVELINK id="mvl14" fromID="m6" fromText="coming" toID="p6" toText="dirtroad" trigger="m6" mover="p6" motion_signalID="ms5" source="pl20"/>
+<MOVELINK id="mvl15" fromID="m28" fromText="visited" toID="se24" toText="we" trigger="m28" mover="se24" goal="pl42"/>
+<MOVELINK id="mvl16" fromID="m5" fromText="journey" toID="se4" toText="we" trigger="m5" mover="se4" motion_signalID="ms21"/>
+<MOVELINK id="mvl17" fromID="m5" fromText="journey" toID="se5" toText="We" trigger="m5" mover="se5" motion_signalID="ms21, ms3"/>
+<MOVELINK id="mvl18" fromID="m17" fromText="descending" toID="se18" toText="we" trigger="m17" mover="se18" source="pl32"/>
+<MOVELINK id="mvl19" fromID="m25" fromText="Passing" toID="m25" toText="Passing" trigger="m25" mover="m25" motion_signalID="ms4"/>
+<MOVELINK id="mvl20" fromID="m17" fromText="descending" toID="se17" toText="We" trigger="m17" mover="se17" pathID="p11" motion_signalID="ms18" source="pl32"/>
+<MOVELINK id="mvl21" fromID="m11" fromText="entered" toID="se9" toText="we" trigger="m11" mover="se9" goal="pl26" motion_signalID="ms11" source="pl27"/>
+<MOVELINK id="mvl22" fromID="m4" fromText="reached" toID="se4" toText="we" trigger="m4" mover="se4" goal="pl7"/>
+<MOVELINK id="mvl23" fromID="m6" fromText="coming" toID="se6" toText="we" trigger="m6" mover="se6" motion_signalID="ms5" source="pl20"/>
+<MOVELINK id="mvl24" fromID="m11" fromText="entered" toID="se10" toText="we" trigger="m11" mover="se10" source="pl27"/>
+<MOVELINK id="mvl25" fromID="m12" fromText="took" toID="se9" toText="we" trigger="m12" mover="se9" pathID="p8"/>
+<MOVELINK id="mvl26" fromID="m16" fromText="wandered" toID="se16" toText="deer" trigger="m16" mover="se16" motion_signalID="ms17"/>
+<MOVELINK id="mvl27" fromID="m16" fromText="wandered" toID="se15" toText="We" trigger="m16" mover="se15" motion_signalID="ms17"/>
+<MOVELINK id="mvl28" fromID="m7" fromText="head" toID="se6" toText="we" trigger="m7" mover="se6" motion_signalID="ms6" source="se7"/>
+<MOVELINK id="mvl29" fromID="m9" fromText="trip" toID="p6" toText="dirtroad" trigger="m9" mover="p6" source="pl19"/>
+<MOVELINK id="mvl30" fromID="m3" fromText="driving" toID="se4" toText="we" trigger="m3" mover="se4"/>
+<MOVELINK id="mvl31" fromID="m18" fromText="walking" toID="se17" toText="We" trigger="m18" mover="se17" source="pl32" motion_signalID="ms19"/>
+<MOVELINK id="mvl32" fromID="m15" fromText="getting" toID="se13" toText="we" trigger="m15" mover="se13" landmark="pl31" motion_signalID="ms16, ms15" source="p10"/>
+<MOVELINK id="mvl33" fromID="m18" fromText="walking" toID="se18" toText="we" trigger="m18" mover="se18" source="pl32" motion_signalID="ms19"/>
+<MOVELINK id="mvl34" fromID="m12" fromText="took" toID="se11" toText="us" trigger="m12" mover="se11" pathID="p8" source="pl27"/>
+<MOVELINK id="mvl35" fromID="m26" fromText="walked" toID="se12" toText="we" trigger="m26" mover="se12" goal="pl29" motion_signalID="ms13" source="p10"/>
+<MOVELINK id="mvl36" fromID="m12" fromText="took" toID="se10" toText="we" trigger="m12" mover="se10" pathID="p8" source="pl27"/>
+<MOVELINK id="mvl37" fromID="m15" fromText="getting" toID="se14" toText="we" trigger="m15" mover="se14" landmark="pl31" motion_signalID="ms16, ms15" source="p10"/>
+<MOVELINK id="mvl38" fromID="m29" fromText="meet" toID="se15" toText="We" trigger="m29" mover="se15" landmark="se16"/>
+<MOVELINK id="mvl39" fromID="m8" fromText="left" toID="se6" toText="we" trigger="m8" mover="se6" landmark="pl22" source="se7" motion_signalID="ms8"/>
+<MOVELINK id="mvl40" fromID="m20" fromText="locate" toID="se19" toText="we" trigger="m20" mover="se19"/>
+<MOVELINK id="mvl41" fromID="m27" fromText="trek" toID="se24" toText="we" trigger="m27" mover="se24"/>
+<MOVELINK id="mvl42" fromID="m2" fromText="drove" toID="se3" toText="We" trigger="m2" mover="se3" motion_signalID="ms2" midPoint="pl3"/>
+<MOVELINK id="mvl43" fromID="m9" fromText="trip" toID="se6" toText="we" trigger="m9" mover="se6" landmark="pl22" motion_signalID="ms8, ms9" source="se7"/>
+<MOVELINK id="mvl44" fromID="m10" fromText="passing" toID="se8" toText="us" trigger="m10" mover="se8" pathID="p7" motion_signalID="ms10" midPoint="pl24, pl23"/>
+<MOVELINK id="mvl45" fromID="m29" fromText="meet" toID="se16" toText="deer" trigger="m29" mover="se16"/>
+<MOVELINK id="mvl46" fromID="m26" fromText="walked" toID="se14" toText="we" trigger="m26" mover="se14" source="p10"/>
+<MOVELINK id="mvl47" fromID="m26" fromText="walked" toID="se13" toText="we" trigger="m26" mover="se13" source="p10" motion_signalID="ms13"/>
+<MOVELINK id="mvl48" fromID="m15" fromText="getting" toID="se12" toText="we" trigger="m15" mover="se12" landmark="pl31" source="p10"/>
+<MOVELINK id="mvl49" fromID="m1" fromText="left" toID="se1" toText="we" trigger="m1" mover="se1" pathID="p0" goal="pl1" source="pl0" motion_signalID="ms0, ms1"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

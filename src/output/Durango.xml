@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+Durango to San Luis Potosi &#8211; 6 days, 313 miles
+Thursday, January 26th, 2006
+
+   In the past week, I have cut across the high central plateau of Mexico. This plateau is dry without great changes in elevation, and the road has stayed between 6,000 and 8,000 ft above sea level.
+
+   This dry region is rich with minerals, and every town has impressive architecture dating from 16th through 18th centuries, when mines brought these towns (and Spain) great wealth. According to a doctor I stayed with in the town of Fresnillo (met him on the street while asking directions to the firehouse), the area is the world&#8217;s second largest producer of silver.
+
+   The most impressive city visited was Zacatecas, which, at 8,000 feet and 350,000 people, contains a great maze of cobblestone streets and buildings. I stayed an extra day in Zacatecas, talked with a school, and then camped atop a building in the center of town, where I encountered my first rain in Mexico. (The shot on the right is of an epic battle I had with Pancho Villa).
+
+  
+   I have ridden since Durango with Gregg and Brooks, who are riding from Alaska to Argentina to raise money for Diabetes research. I met Gregg and Brooks back in San Diego, only to split ways when my passport was stolen. No, we are not racing, as the movie on the right suggests&#8230;.(I say this only because it looks like they will beat me).
+
+  
+   It is a different experience riding with other cyclists. The bicycling is more enjoyable, and hotels, when split three ways, sometimes fall within my acceptable limit of $5 a night. Yet interaction with local peoples is far less, as a group of gringos is more intimidating than an individual. I hope to ride more with Gregg and Brooks in the future, and there are a number of people that I hope will join me on this trip. But it is also clear that there are great benefits to being alone on the road.
+</TEXT>
+<TAGS>
+<PLACE id="pl20" text="San Diego" start="1195" end="1204"/>
+<PLACE id="pl19" text="Argentina" start="1116" end="1125"/>
+<PLACE id="pl15" text="town" start="907" end="911"/>
+<PLACE id="pl16" text="Mexico" start="950" end="956"/>
+<PLACE id="pl17" text="Durango" start="1055" end="1062"/>
+<PLACE id="pl18" text="Alaska" start="1106" end="1112"/>
+<SPATIAL_ENTITY id="se30" text="I" start="1767" end="1768"/>
+<SPATIAL_SIGNAL id="s0" text="in" start="890" end="892" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se1" text="him" start="527" end="530"/>
+<SPATIAL_SIGNAL id="s1" text="where" start="913" end="918" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se0" text="I" start="99" end="100"/>
+<SPATIAL_SIGNAL id="s2" text="in" start="947" end="949" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se3" text="I" start="483" end="484"/>
+<SPATIAL_SIGNAL id="s3" text="of" start="142" end="144" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s4" text="contains" start="740" end="748" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se5" text="I" start="800" end="801"/>
+<SPATIAL_ENTITY id="se27" text="I" start="1314" end="1315"/>
+<SPATIAL_SIGNAL id="s5" text="in" start="497" end="499" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se4" text="I" start="1672" end="1673"/>
+<SPATIAL_ENTITY id="se26" text="I" start="1002" end="1003"/>
+<SPATIAL_SIGNAL id="s6" text="in" start="822" end="824" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se7" text="I" start="1035" end="1036"/>
+<SPATIAL_SIGNAL id="s7" text="on" start="531" end="533" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se6" text="I" start="919" end="920"/>
+<SPATIAL_SIGNAL id="s8" text="atop" start="874" end="878" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se9" text="Brooks" start="1078" end="1084"/>
+<SPATIAL_SIGNAL id="s9" text="in" start="1192" end="1194" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se8" text="Gregg" start="1068" end="1073"/>
+<PLACE id="pl11" text="Zacatecas" start="825" end="834"/>
+<PLACE id="pl12" text="school" start="850" end="856"/>
+<PLACE id="pl13" text="building" start="881" end="889"/>
+<PLACE id="pl14" text="center" start="897" end="903"/>
+<SPATIAL_ENTITY id="se29" text="me" start="1367" end="1369"/>
+<SPATIAL_ENTITY id="se28" text="they" start="1352" end="1356"/>
+<PLACE id="pl10" text="buildings" start="789" end="798"/>
+<PLACE id="pl1" text="Mexico" start="145" end="151"/>
+<PLACE id="pl0" text="plateau" start="134" end="141"/>
+<PLACE id="pl3" text="Fresnillo" start="512" end="521"/>
+<PLACE id="pl2" text="town" start="504" end="508"/>
+<PLACE id="pl7" text="city" start="671" end="675"/>
+<PLACE id="pl6" text="Spain" start="440" end="445"/>
+<PLACE id="pl9" text="maze" start="757" end="761"/>
+<PLACE id="pl8" text="Zacatecas" start="688" end="697"/>
+<PATH id="p0" text="road" start="217" end="221"/>
+<SPATIAL_ENTITY id="se14" text="me" start="1784" end="1786"/>
+<PATH id="p1" text="streets" start="777" end="784"/>
+<SPATIAL_ENTITY id="se13" text="people" start="1755" end="1761"/>
+<PATH id="p2" text="street" start="538" end="544"/>
+<SPATIAL_ENTITY id="se16" text="I" start="1164" end="1165"/>
+<PATH id="p3" text="road" start="1874" end="1878"/>
+<SPATIAL_ENTITY id="se15" text="cyclists" start="1426" end="1434"/>
+<SPATIAL_ENTITY id="se10" text="who" start="1086" end="1089"/>
+<SPATIAL_ENTITY id="se12" text="Brooks" start="1707" end="1713"/>
+<SPATIAL_ENTITY id="se11" text="Gregg" start="1697" end="1702"/>
+<MOTION_SIGNAL id="ms0" text="across" start="110" end="116"/>
+<SPATIAL_ENTITY id="se18" text="Brooks" start="1180" end="1186"/>
+<MOTION id="m11" text="met" start="1166" end="1169"/>
+<SPATIAL_ENTITY id="se17" text="Gregg" start="1170" end="1175"/>
+<MOTION id="m10" text="riding" start="1408" end="1414"/>
+<MOTION id="m13" text="split" start="1214" end="1219"/>
+<SPATIAL_ENTITY id="se19" text="we" start="1258" end="1260"/>
+<MOTION id="m12" text="racing" start="1269" end="1275"/>
+<MOTION_SIGNAL id="ms7" text="from" start="1101" end="1105"/>
+<MOTION_SIGNAL id="ms6" text="since" start="1049" end="1054"/>
+<SPATIAL_SIGNAL id="s11" text="of" start="904" end="906" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s10" text="on" start="1867" end="1869" semantic_type="DIR_TOP"/>
+<MOTION_SIGNAL id="ms8" text="to" start="1113" end="1115"/>
+<MOTION id="m0" text="cut" start="106" end="109"/>
+<MOTION id="m2" text="met" start="523" end="526"/>
+<MOTION id="m5" text="ridden" start="1042" end="1048"/>
+<MOTION id="m6" text="riding" start="1094" end="1100"/>
+<MOTION id="m7" text="encountered" start="921" end="932"/>
+<NONMOTION_EVENT id="e0" text="rain" start="942" end="946"/>
+<MOTION id="m8" text="ride" start="1682" end="1686"/>
+<NONMOTION_EVENT id="e1" text="visited" start="676" end="683"/>
+<MOTION id="m9" text="join" start="1779" end="1783"/>
+<NONMOTION_EVENT id="e2" text="being" start="1855" end="1860"/>
+<NONMOTION_EVENT id="e3" text="alone" start="1861" end="1866"/>
+<NONMOTION_EVENT id="e4" text="stayed" start="485" end="491"/>
+<NONMOTION_EVENT id="e5" text="stayed" start="802" end="808"/>
+<NONMOTION_EVENT id="e6" text="camped" start="867" end="873"/>
+<QSLINK id="qsl0" fromID="m7" fromText="encountered" toID="pl14" toText="center" trajector="m7" landmark="pl14" trigger="s1"/>
+<QSLINK id="qsl1" fromID="m7" fromText="encountered" toID="pl16" toText="Mexico" trajector="m7" landmark="pl16" trigger="s2"/>
+<OLINK id="ol0" fromID="m2" fromText="met" toID="p2" toText="street" trajector="m2" landmark="p2" trigger="s7"/>
+<QSLINK id="qsl2" fromID="m2" fromText="met" toID="p2" toText="street" trajector="m2" landmark="p2" trigger="s7"/>
+<QSLINK id="qsl3" fromID="e5" fromText="stayed" toID="pl11" toText="Zacatecas" trajector="e5" landmark="pl11" trigger="s6"/>
+<QSLINK id="qsl4" fromID="pl14" fromText="center" toID="pl15" toText="town" trajector="pl14" landmark="pl15" trigger="s11"/>
+<QSLINK id="qsl5" fromID="e6" fromText="camped" toID="pl14" toText="center" trajector="e6" landmark="pl14" trigger="s0"/>
+<OLINK id="ol1" fromID="e6" fromText="camped" toID="pl13" toText="building" trajector="e6" landmark="pl13" trigger="s8"/>
+<QSLINK id="qsl6" fromID="e6" fromText="camped" toID="pl13" toText="building" trajector="e6" landmark="pl13" trigger="s8"/>
+<OLINK id="ol2" fromID="e3" fromText="alone" toID="p3" toText="road" trajector="e3" landmark="p3" trigger="s10"/>
+<QSLINK id="qsl7" fromID="e3" fromText="alone" toID="p3" toText="road" trajector="e3" landmark="p3" trigger="s10"/>
+<QSLINK id="qsl8" fromID="pl0" fromText="plateau" toID="pl1" toText="Mexico" trajector="pl0" landmark="pl1" trigger="s3"/>
+<QSLINK id="qsl9" fromID="pl14" fromText="center" toID="pl15" toText="town" trajector="pl14" landmark="pl15" trigger=""/>
+<QSLINK id="qsl10" fromID="m7" fromText="encountered" toID="pl15" toText="town" trajector="m7" landmark="pl15" trigger="s1"/>
+<QSLINK id="qsl11" fromID="e1" fromText="visited" toID="pl8" toText="Zacatecas" trajector="e1" landmark="pl8" trigger=""/>
+<QSLINK id="qsl12" fromID="e0" fromText="rain" toID="pl16" toText="Mexico" trajector="e0" landmark="pl16" trigger="s2"/>
+<OLINK id="ol3" fromID="e2" fromText="being" toID="p3" toText="road" trajector="e2" landmark="p3" trigger="s10"/>
+<QSLINK id="qsl13" fromID="e2" fromText="being" toID="p3" toText="road" trajector="e2" landmark="p3" trigger="s10"/>
+<QSLINK id="qsl14" fromID="pl0" fromText="plateau" toID="pl1" toText="Mexico" trajector="pl0" landmark="pl1" trigger=""/>
+<QSLINK id="qsl15" fromID="pl13" fromText="building" toID="pl14" toText="center" trajector="pl13" landmark="pl14" trigger="s0"/>
+<QSLINK id="qsl16" fromID="m11" fromText="met" toID="pl20" toText="San Diego" trajector="m11" landmark="pl20" trigger="s9"/>
+<MOVELINK id="mvl0" fromID="m5" fromText="ridden" toID="se10" toText="who" trigger="m5" mover="se10" source="pl17" motion_signalID="ms6"/>
+<MOVELINK id="mvl1" fromID="m11" fromText="met" toID="se16" toText="I" trigger="m11" mover="se16"/>
+<MOVELINK id="mvl2" fromID="m6" fromText="riding" toID="se10" toText="who" trigger="m6" mover="se10" goal="pl19" motion_signalID="ms7, ms8" source="pl18"/>
+<MOVELINK id="mvl3" fromID="m12" fromText="racing" toID="se19" toText="we" trigger="m12" mover="se19"/>
+<MOVELINK id="mvl4" fromID="m7" fromText="encountered" toID="se6" toText="I" trigger="m7" mover="se6" goal="e0"/>
+<MOVELINK id="mvl5" fromID="m13" fromText="split" toID="se16" toText="I" trigger="m13" mover="se16"/>
+<MOVELINK id="mvl6" fromID="m0" fromText="cut" toID="se0" toText="I" trigger="m0" mover="se0" motion_signalID="ms0" midPoint="pl0"/>
+<MOVELINK id="mvl7" fromID="m9" fromText="join" toID="se13" toText="people" trigger="m9" mover="se13" goal="se14"/>
+<MOVELINK id="mvl8" fromID="m10" fromText="riding" toID="se15" toText="cyclists" trigger="m10" mover="se15"/>
+<MOVELINK id="mvl9" fromID="m2" fromText="met" toID="se3" toText="I" trigger="m2" mover="se3" goal="se1"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

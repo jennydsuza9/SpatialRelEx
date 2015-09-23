@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+
+23-Mar-2002 -- On March 23rd, a rainy and cloudy weather, the team (Mara Iliescu, Dana Iliescu, Ramona Demean, Marius Iliescu, Mihai Tiepac and Lucky) drove from Sibiu to Deva. Reaching Simeria we've done right till Uroi. We passed through H&#259;r&#259;u and Certeju de Jos arriving in the village Hondol. Along the valley Hondol at the right side we found an abandoned mine and at only 50 meters we parked the car. The GPS 'said' that from here till the point we had 200 meters left (Point). Our trip continued on foot crossing the valley and climbing the hill which was covered by a young and dense forest. When we reached the point it started snowing. Altitude 575 meters. Distance from Simeria 17.1 km.
+
+</TEXT>
+<TAGS>
+<SPATIAL_SIGNAL id="s0" text="Along" start="299" end="304" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se1" text="Mara Iliescu" start="70" end="82"/>
+<SPATIAL_SIGNAL id="s1" text="at" start="323" end="325" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se0" text="team" start="64" end="68"/>
+<SPATIAL_SIGNAL id="s2" text="at" start="372" end="374" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se3" text="Ramona Demean" start="98" end="111"/>
+<SPATIAL_ENTITY id="se2" text="Dana Iliescu" start="84" end="96"/>
+<SPATIAL_ENTITY id="se5" text="Mihai Tiepac" start="129" end="141"/>
+<SPATIAL_SIGNAL id="s5" text="covered" start="565" end="572" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se4" text="Marius Iliescu" start="113" end="127"/>
+<SPATIAL_ENTITY id="se7" text="we" start="196" end="198"/>
+<SPATIAL_ENTITY id="se6" text="Lucky" start="146" end="151"/>
+<SPATIAL_ENTITY id="se9" text="we" start="341" end="343"/>
+<SPATIAL_ENTITY id="se8" text="We" start="224" end="226"/>
+<PLACE id="pl11" text="point" start="622" end="627"/>
+<PLACE id="pl12" text="Simeria" start="683" end="690"/>
+<PLACE id="pl13" text="hill" start="550" end="554"/>
+<PLACE id="pl10" text="point" start="448" end="453"/>
+<PLACE id="pl1" text="Deva" start="173" end="177"/>
+<PLACE id="pl0" text="Sibiu" start="164" end="169"/>
+<PLACE id="pl3" text="Uroi" start="218" end="222"/>
+<PLACE id="pl2" text="Simeria" start="188" end="195"/>
+<PLACE id="pl5" text="Certeju de Jos" start="252" end="266"/>
+<PLACE id="pl4" text="H?r?u" start="242" end="247"/>
+<PLACE id="pl7" text="Hondol" start="291" end="297"/>
+<PLACE id="pl6" text="village" start="283" end="290"/>
+<PLACE id="pl9" text="here" start="434" end="438"/>
+<PLACE id="pl8" text="mine" start="363" end="367"/>
+<PATH id="p1" text="valley" start="309" end="315"/>
+<SPATIAL_ENTITY id="se13" text="we" start="607" end="609"/>
+<PATH id="p2" text="Hondol" start="316" end="322"/>
+<PATH id="p3" text="side" start="336" end="340"/>
+<PATH id="p4" text="valley" start="526" end="532"/>
+<SPATIAL_ENTITY id="se10" text="we" start="390" end="392"/>
+<SPATIAL_ENTITY id="se12" text="forest" start="594" end="600"/>
+<SPATIAL_ENTITY id="se11" text="car" start="404" end="407"/>
+<MOTION_SIGNAL id="ms1" text="to" start="170" end="172"/>
+<MOTION_SIGNAL id="ms0" text="from" start="159" end="163"/>
+<MOTION_SIGNAL id="ms3" text="in" start="276" end="278"/>
+<MOTION_SIGNAL id="ms2" text="through" start="234" end="241"/>
+<MOTION_SIGNAL id="ms4" text="on foot" start="505" end="512"/>
+<MOTION id="m0" text="drove" start="153" end="158"/>
+<MOTION id="m1" text="Reaching" start="179" end="187"/>
+<MOTION id="m2" text="passed" start="227" end="233"/>
+<MOTION id="m3" text="arriving" start="267" end="275"/>
+<MOTION id="m6" text="trip" start="490" end="494"/>
+<MOTION id="m7" text="crossing" start="513" end="521"/>
+<NONMOTION_EVENT id="e0" text="found" start="344" end="349"/>
+<MOTION id="m8" text="reached" start="610" end="617"/>
+<NONMOTION_EVENT id="e1" text="parked" start="393" end="399"/>
+<MOTION id="m9" text="climbing" start="537" end="545"/>
+<QSLINK id="qsl0" fromID="e0" fromText="found" toID="p3" toText="side" trajector="e0" landmark="p3" trigger="s1"/>
+<OLINK id="ol0" fromID="se12" fromText="forest" toID="pl13" toText="hill" trajector="se12" landmark="pl13" trigger="s5"/>
+<QSLINK id="qsl1" fromID="se12" fromText="forest" toID="pl13" toText="hill" trajector="se12" landmark="pl13" trigger="s5"/>
+<QSLINK id="qsl2" fromID="p3" fromText="side" toID="p1" toText="valley" trajector="p3" landmark="p1" trigger="s1"/>
+<QSLINK id="qsl3" fromID="e0" fromText="found" toID="p1" toText="valley" trajector="e0" landmark="p1" trigger="s1"/>
+<MOVELINK id="mvl0" fromID="m8" fromText="reached" toID="se13" toText="we" trigger="m8" mover="se13" goal="pl11"/>
+<MOVELINK id="mvl1" fromID="m0" fromText="drove" toID="se6" toText="Lucky" trigger="m0" mover="se6" source="pl0"/>
+<MOVELINK id="mvl2" fromID="m1" fromText="Reaching" toID="se7" toText="we" trigger="m1" mover="se7" goal="pl2"/>
+<MOVELINK id="mvl3" fromID="m6" fromText="trip" toID="m6" toText="trip" trigger="m6" mover="m6" motion_signalID="ms4"/>
+<MOVELINK id="mvl4" fromID="m7" fromText="crossing" toID="m7" toText="crossing" trigger="m7" mover="m7"/>
+<MOVELINK id="mvl5" fromID="m9" fromText="climbing" toID="m9" toText="climbing" trigger="m9" mover="m9" landmark="pl13"/>
+<MOVELINK id="mvl6" fromID="m2" fromText="passed" toID="se8" toText="We" trigger="m2" mover="se8" goal="pl6" motion_signalID="ms2, ms3" midPoint="pl4, pl5"/>
+<MOVELINK id="mvl7" fromID="m3" fromText="arriving" toID="se8" toText="We" trigger="m3" mover="se8" goal="pl6" motion_signalID="ms3"/>
+<MOVELINK id="mvl8" fromID="m0" fromText="drove" toID="se0" toText="team" trigger="m0" mover="se0" goal="pl1" motion_signalID="ms0, ms1" source="pl0"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

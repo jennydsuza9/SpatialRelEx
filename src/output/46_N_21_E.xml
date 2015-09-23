@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+
+23-Aug-2002 -- On 23-August-2002 at 8 am we left Mak&#243; (Hungary). After crossing the border to Romania we took the road to Arad and reached the village Pecica, where we wanted to turn right in order to come to S&#238;npetru German. We had difficulties to find the road, but a friendly old women went beside our car until the edge of the river Maros, which we had to cross. To our surprise there was no bridge, but an old wooden ferry (better to say: a float). It really was an adventure. Using field tracks we needed plenty of time to reach the village of S&#238;npetru German, where we met several very friendly women, who told us some interesting historical facts of their village. On the way to Gelu, the next village, we had to drive over meadows and fields but fortunately there were some farmers we could ask for the right way, which was even harder to drive than the ways before.
+
+Finally we reached the street from Gelu to S&#238;nnicolau Mare. After about 2 km we turned left on a field track along a high corn field. We left our car on 46 N, 150 m away from the point. Carefully we followed the GPS and wanted to take the photos. But the batteries of the camera were to low and we had to change it in the field. Interrupting that action, an unexpected farmer called loudly in our direction. We had to drive away our car immediately. After his tractor had passed, we wanted to return to the point, but a "man with bike" tried to prevent us from doing so. Our explanations were unsuccessful, so we had to wait a long time, until he was out of sight. Now we returned to the point, took the photos and headed on to 46 N 22 E.
+
+</TEXT>
+<TAGS>
+<PLACE id="pl20" text="46 N 22 E" start="1607" end="1616"/>
+<PLACE id="pl19" text="point" start="1567" end="1572"/>
+<PLACE id="pl15" text="field" start="1006" end="1011"/>
+<PLACE id="pl16" text="point" start="1058" end="1063"/>
+<PLACE id="pl17" text="field" start="1201" end="1206"/>
+<PLACE id="pl18" text="point" start="1386" end="1391"/>
+<SPATIAL_SIGNAL id="s0" text="where" start="161" end="166" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se1" text="we" start="104" end="106"/>
+<SPATIAL_SIGNAL id="s1" text="of" start="326" end="328" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se0" text="we" start="43" end="45"/>
+<SPATIAL_SIGNAL id="s2" text="where" start="569" end="574" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se3" text="We" start="228" end="230"/>
+<SPATIAL_ENTITY id="se2" text="we" start="167" end="169"/>
+<SPATIAL_ENTITY id="se5" text="car" start="307" end="310"/>
+<SPATIAL_SIGNAL id="s5" text="along" start="988" end="993" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se4" text="women" start="285" end="290"/>
+<SPATIAL_SIGNAL id="s6" text="on" start="1029" end="1031" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se7" text="we" start="503" end="505"/>
+<SPATIAL_SIGNAL id="s7" text="away from" start="1044" end="1053" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se6" text="we" start="352" end="354"/>
+<SPATIAL_SIGNAL id="s8" text="in" start="1194" end="1196" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se9" text="women" start="604" end="609"/>
+<SPATIAL_SIGNAL id="s9" text="to" start="686" end="688" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se8" text="we" start="575" end="577"/>
+<PLACE id="pl11" text="meadows" start="734" end="741"/>
+<PLACE id="pl12" text="fields" start="746" end="752"/>
+<PLACE id="pl13" text="Gelu" start="914" end="918"/>
+<PLACE id="pl14" text="S?nnicolau Mare" start="922" end="937"/>
+<PLACE id="pl10" text="village" start="704" end="711"/>
+<MOTION_SIGNAL id="ms1" text="to" start="121" end="123"/>
+<MOTION_SIGNAL id="ms0" text="to" start="93" end="95"/>
+<MOTION id="m11" text="drive" start="850" end="855"/>
+<MOTION_SIGNAL id="ms3" text="to" start="208" end="210"/>
+<MOTION id="m10" text="drive" start="723" end="728"/>
+<MOTION_SIGNAL id="ms2" text="right" start="185" end="190"/>
+<MOTION id="m13" text="turned" start="959" end="965"/>
+<MOTION_SIGNAL id="ms5" text="until" start="311" end="316"/>
+<MOTION id="m12" text="reached" start="890" end="897"/>
+<MOTION_SIGNAL id="ms4" text="beside" start="296" end="302"/>
+<MOTION id="m15" text="drive" start="1297" end="1302"/>
+<MOTION_SIGNAL id="ms7" text="After" start="939" end="944"/>
+<MOTION id="m14" text="followed" start="1078" end="1086"/>
+<MOTION_SIGNAL id="ms6" text="On" start="675" end="677"/>
+<MOTION id="m17" text="return" start="1372" end="1378"/>
+<MOTION_SIGNAL id="ms9" text="left" start="966" end="970"/>
+<MOTION id="m16" text="passed" start="1351" end="1357"/>
+<MOTION_SIGNAL id="ms8" text="over" start="729" end="733"/>
+<MOTION id="m19" text="returned" start="1551" end="1559"/>
+<MOTION id="m0" text="left" start="46" end="50"/>
+<MOTION id="m1" text="crossing" start="73" end="81"/>
+<MOTION id="m2" text="took" start="107" end="111"/>
+<MOTION id="m3" text="reached" start="133" end="140"/>
+<MOTION id="m4" text="turn" start="180" end="184"/>
+<MOTION id="m5" text="come" start="203" end="207"/>
+<MOTION id="m6" text="find" start="251" end="255"/>
+<MOTION id="m20" text="headed" start="1594" end="1600"/>
+<MOTION id="m7" text="went" start="291" end="295"/>
+<NONMOTION_EVENT id="e0" text="met" start="578" end="581"/>
+<MOTION id="m8" text="cross" start="362" end="367"/>
+<NONMOTION_EVENT id="e1" text="change" start="1184" end="1190"/>
+<MOTION id="m9" text="reach" start="531" end="536"/>
+<NONMOTION_EVENT id="e4" text="took" start="1574" end="1578"/>
+<MOTION_SIGNAL id="ms12" text="our car" start="1308" end="1315"/>
+<MOTION_SIGNAL id="ms11" text="away" start="1303" end="1307"/>
+<MOTION_SIGNAL id="ms10" text="on" start="971" end="973"/>
+<MOTION_SIGNAL id="ms16" text="to" start="1604" end="1606"/>
+<MOTION_SIGNAL id="ms15" text="on" start="1601" end="1603"/>
+<MOTION_SIGNAL id="ms14" text="to" start="1560" end="1562"/>
+<MOTION_SIGNAL id="ms13" text="to" start="1379" end="1381"/>
+<PATH id="p10" text="street" start="902" end="908"/>
+<PATH id="p12" text="46 N" start="1032" end="1036"/>
+<PATH id="p11" text="track" start="982" end="987"/>
+<PLACE id="pl1" text="Hungary" start="57" end="64"/>
+<PLACE id="pl0" text="Mak?" start="51" end="55"/>
+<PLACE id="pl3" text="Arad" start="124" end="128"/>
+<PLACE id="pl2" text="Romania" start="96" end="103"/>
+<PLACE id="pl5" text="Pecica" start="153" end="159"/>
+<PLACE id="pl4" text="village" start="145" end="152"/>
+<PLACE id="pl7" text="village" start="541" end="548"/>
+<PLACE id="pl6" text="S?npetru German" start="211" end="226"/>
+<PLACE id="pl9" text="Gelu" start="689" end="693"/>
+<PLACE id="pl8" text="S?npetru German" start="552" end="567"/>
+<PATH id="p0" text="border" start="86" end="92"/>
+<SPATIAL_ENTITY id="se14" text="car" start="1025" end="1028"/>
+<PATH id="p1" text="road" start="116" end="120"/>
+<SPATIAL_ENTITY id="se13" text="We" start="1013" end="1015"/>
+<PATH id="p2" text="road" start="260" end="264"/>
+<SPATIAL_ENTITY id="se16" text="We" start="1287" end="1289"/>
+<PATH id="p3" text="edge" start="321" end="325"/>
+<SPATIAL_ENTITY id="se15" text="we" start="1075" end="1077"/>
+<PATH id="p4" text="river" start="333" end="338"/>
+<SPATIAL_ENTITY id="se10" text="we" start="713" end="715"/>
+<PATH id="p5" text="Maros" start="339" end="344"/>
+<PATH id="p6" text="tracks" start="496" end="502"/>
+<SPATIAL_ENTITY id="se12" text="we" start="956" end="958"/>
+<PATH id="p7" text="way" start="682" end="685"/>
+<SPATIAL_ENTITY id="se11" text="we" start="887" end="889"/>
+<PATH id="p8" text="way" start="820" end="823"/>
+<PATH id="p9" text="ways" start="865" end="869"/>
+<SPATIAL_ENTITY id="se18" text="we" start="1359" end="1361"/>
+<SPATIAL_ENTITY id="se17" text="tractor" start="1339" end="1346"/>
+<SPATIAL_ENTITY id="se19" text="we" start="1548" end="1550"/>
+<QSLINK id="qsl0" fromID="p3" fromText="edge" toID="p4" toText="river" trajector="p3" landmark="p4" trigger="s1"/>
+<QSLINK id="qsl1" fromID="m4" fromText="turn" toID="pl4" toText="village" trajector="m4" landmark="pl4" trigger="s0"/>
+<QSLINK id="qsl2" fromID="se14" fromText="car" toID="pl16" toText="point" trajector="se14" landmark="pl16" trigger="s7"/>
+<QSLINK id="qsl3" fromID="p3" fromText="edge" toID="p4" toText="river" trajector="p3" landmark="p4" trigger=""/>
+<QSLINK id="qsl4" fromID="e0" fromText="met" toID="pl7" toText="village" trajector="e0" landmark="pl7" trigger="s2"/>
+<QSLINK id="qsl5" fromID="p7" fromText="way" toID="pl9" toText="Gelu" trajector="p7" landmark="pl9" trigger="s9"/>
+<QSLINK id="qsl6" fromID="e1" fromText="change" toID="pl17" toText="field" trajector="e1" landmark="pl17" trigger="s8"/>
+<QSLINK id="qsl7" fromID="se14" fromText="car" toID="p12" toText="46 N" trajector="se14" landmark="p12" trigger="s6"/>
+<QSLINK id="qsl8" fromID="pl0" fromText="Mak?" toID="pl1" toText="Hungary" trajector="pl0" landmark="pl1" trigger=""/>
+<OLINK id="ol0" fromID="pl15" fromText="field" toID="p11" toText="track" trajector="pl15" landmark="p11" trigger="s5"/>
+<QSLINK id="qsl9" fromID="pl15" fromText="field" toID="p11" toText="track" trajector="pl15" landmark="p11" trigger="s5"/>
+<MOVELINK id="mvl0" fromID="m17" fromText="return" toID="se18" toText="we" trigger="m17" mover="se18" goal="pl18" motion_signalID="ms13"/>
+<MOVELINK id="mvl1" fromID="m17" fromText="return" toID="se17" toText="tractor" trigger="m17" mover="se17" motion_signalID="ms13"/>
+<MOVELINK id="mvl2" fromID="m4" fromText="turn" toID="se2" toText="we" trigger="m4" mover="se2" goal="pl6" motion_signalID="ms2"/>
+<MOVELINK id="mvl3" fromID="m14" fromText="followed" toID="se15" toText="we" trigger="m14" mover="se15"/>
+<MOVELINK id="mvl4" fromID="m0" fromText="left" toID="se0" toText="we" trigger="m0" mover="se0" source="pl0"/>
+<MOVELINK id="mvl5" fromID="m11" fromText="drive" toID="se10" toText="we" trigger="m11" mover="se10" pathID="p9"/>
+<MOVELINK id="mvl6" fromID="m16" fromText="passed" toID="se18" toText="we" trigger="m16" mover="se18"/>
+<MOVELINK id="mvl7" fromID="m16" fromText="passed" toID="se17" toText="tractor" trigger="m16" mover="se17" motion_signalID="ms13"/>
+<MOVELINK id="mvl8" fromID="m19" fromText="returned" toID="se19" toText="we" trigger="m19" mover="se19" goal="pl19" motion_signalID="ms14"/>
+<MOVELINK id="mvl9" fromID="m13" fromText="turned" toID="se12" toText="we" trigger="m13" mover="se12" goal="p11" motion_signalID="ms9, ms10"/>
+<MOVELINK id="mvl10" fromID="m10" fromText="drive" toID="se10" toText="we" trigger="m10" mover="se10" pathID="p8" motion_signalID="ms8" midPoint="pl11, pl12"/>
+<MOVELINK id="mvl11" fromID="m7" fromText="went" toID="se6" toText="we" trigger="m7" mover="se6" landmark="se5" motion_signalID="ms4"/>
+<MOVELINK id="mvl12" fromID="m3" fromText="reached" toID="se1" toText="we" trigger="m3" mover="se1" goal="pl4"/>
+<MOVELINK id="mvl13" fromID="m11" fromText="drive" toID="m11" toText="drive" trigger="m11" mover="m11" pathID="p9"/>
+<MOVELINK id="mvl14" fromID="m2" fromText="took" toID="se1" toText="we" trigger="m2" mover="se1" pathID="p1" goal="pl3" motion_signalID="ms1"/>
+<MOVELINK id="mvl15" fromID="m15" fromText="drive" toID="se16" toText="We" trigger="m15" mover="se16" motion_signalID="ms11, ms12"/>
+<MOVELINK id="mvl16" fromID="m12" fromText="reached" toID="se11" toText="we" trigger="m12" mover="se11" goal="p10"/>
+<MOVELINK id="mvl17" fromID="m7" fromText="went" toID="se4" toText="women" trigger="m7" mover="se4" goal="p3" landmark="se5" motion_signalID="ms4, ms5"/>
+<MOVELINK id="mvl18" fromID="m7" fromText="went" toID="se3" toText="We" trigger="m7" mover="se3" landmark="se5" motion_signalID="ms4"/>
+<MOVELINK id="mvl19" fromID="m8" fromText="cross" toID="se6" toText="we" trigger="m8" mover="se6"/>
+<MOVELINK id="mvl20" fromID="m20" fromText="headed" toID="se19" toText="we" trigger="m20" mover="se19" goal="pl20" motion_signalID="ms15, ms16"/>
+<MOVELINK id="mvl21" fromID="m2" fromText="took" toID="se2" toText="we" trigger="m2" mover="se2" pathID="p1"/>
+<MOVELINK id="mvl22" fromID="m6" fromText="find" toID="se3" toText="We" trigger="m6" mover="se3" goal="p2" landmark="se5"/>
+<MOVELINK id="mvl23" fromID="m5" fromText="come" toID="se2" toText="we" trigger="m5" mover="se2" goal="pl6" motion_signalID="ms3"/>
+<MOVELINK id="mvl24" fromID="m9" fromText="reach" toID="se7" toText="we" trigger="m9" mover="se7" goal="pl7"/>
+<MOVELINK id="mvl25" fromID="m1" fromText="crossing" toID="se1" toText="we" trigger="m1" mover="se1" goal="pl2" motion_signalID="ms0"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

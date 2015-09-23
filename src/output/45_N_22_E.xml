@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+
+09-Aug-2003 -- On Saturday, 9th August 2003, Daniel and I start with our Enduros approx. 100 kilometers from the confluence point. In the preceding years I travelled some thousand offroad kilometers in Romania and therefore we take the most beautiful Enduro paths to the confluence point, naturally there is also something new to discover.
+
+The last kilometers before we take the forest road, which leads approximately toward the confluence point, we are driving on the street, because it goes steeply uphill from the valley and is is rather hard to drive in the forest. I drove through this road section already several times, conscious that it is very near to the confluence point N 45&#176; E 22&#176; (for the first time in August 1999), however without knowing of the "Degree Confluence Project" - my friend Ulrich Leardi told me of it.
+
+We bend off on the forest road, which is partly freshly graded. In the top there are even completely new branches toward to the confluence point because of the present timber work! We try to drive near on the wood-cutting tracks as close as possible, and after approx. 2 hours of travel we got the motorcycles to within 530 meters of the confluence point. We cross a light hardwood forest and a deeply cut brook bed. In our maps the confluence point would have to lie on a clearing. At the top the forest becomes lighter, we goe toward it and discover a clearing, grown mainly with large ferns, the confluence point is however still approx.. 100 meters further southwest. We dive again into the hardwood forest and cross a further, deeply cut brook bed.
+
+The confluence point is now a few steps from here, and we move in a zigzag through the forest, the arrow on the GPS jumping again and again around. After several attempts, however, we always land in the same place: Here is the confluence point!
+
+We take a few pictures, unfortunately without the hoped-for view and take a small rest. Then we take the way back through the wonderful landscape, having afterwards a very interesting Enduro week with many beautiful Offroad kilometers.
+
+Romania has very much nature to offer, the hospitality of the people is terrific - this country is always worth a journey! 
+
+</TEXT>
+<TAGS>
+<PLACE id="pl22" text="place" start="1798" end="1803"/>
+<PLACE id="pl23" text="Here" start="1805" end="1809"/>
+<PLACE id="pl24" text="point" start="1828" end="1833"/>
+<PLACE id="pl25" text="landscape" start="1972" end="1981"/>
+<PLACE id="pl20" text="here" start="1635" end="1639"/>
+<PLACE id="pl21" text="forest" start="1677" end="1683"/>
+<PLACE id="pl19" text="point" start="1605" end="1610"/>
+<PLACE id="pl15" text="it" start="1371" end="1373"/>
+<PLACE id="pl16" text="clearing" start="1389" end="1397"/>
+<PLACE id="pl17" text="point" start="1445" end="1450"/>
+<PLACE id="pl18" text="forest" start="1539" end="1545"/>
+<SPATIAL_SIGNAL id="s0" text="toward" start="949" end="955" semantic_type="DIRECTIONAL"/>
+<SPATIAL_ENTITY id="se1" text="I" start="58" end="59"/>
+<SPATIAL_SIGNAL id="s1" text="to" start="661" end="663" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se0" text="Daniel" start="47" end="53"/>
+<SPATIAL_SIGNAL id="s2" text="In" start="899" end="901" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se3" text="we" start="226" end="228"/>
+<SPATIAL_ENTITY id="se2" text="I" start="156" end="157"/>
+<SPATIAL_ENTITY id="se24" text="We" start="1836" end="1838"/>
+<SPATIAL_SIGNAL id="s4" text="on" start="1303" end="1305" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se5" text="we" start="450" end="452"/>
+<SPATIAL_SIGNAL id="s5" text="At" start="1318" end="1320" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se4" text="we" start="370" end="372"/>
+<SPATIAL_SIGNAL id="s6" text="southwest" start="1496" end="1505" semantic_type="DIRECTIONAL"/>
+<SPATIAL_ENTITY id="se7" text="We" start="835" end="837"/>
+<SPATIAL_ENTITY id="se20" text="people" start="2135" end="2141"/>
+<SPATIAL_ENTITY id="se6" text="I" start="573" end="574"/>
+<SPATIAL_SIGNAL id="s8" text="on" start="1695" end="1697" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se9" text="we" start="1122" end="1124"/>
+<SPATIAL_ENTITY id="se23" text="me" start="824" end="826"/>
+<SPATIAL_ENTITY id="se8" text="We" start="1016" end="1018"/>
+<PLACE id="pl11" text="point" start="1279" end="1284"/>
+<PLACE id="pl12" text="clearing" start="1308" end="1316"/>
+<PLACE id="pl13" text="top" start="1325" end="1328"/>
+<PLACE id="pl14" text="forest" start="1333" end="1339"/>
+<PLACE id="pl10" text="forest" start="1217" end="1223"/>
+<MOTION_SIGNAL id="ms1" text="to" start="266" end="268"/>
+<MOTION_SIGNAL id="ms0" text="in" start="201" end="203"/>
+<MOTION id="m11" text="got" start="1125" end="1128"/>
+<MOTION_SIGNAL id="ms3" text="toward" start="421" end="427"/>
+<MOTION id="m10" text="travel" start="1115" end="1121"/>
+<MOTION_SIGNAL id="ms2" text="start" start="60" end="65"/>
+<MOTION id="m13" text="goe" start="1360" end="1363"/>
+<MOTION id="m12" text="cross" start="1194" end="1199"/>
+<MOTION_SIGNAL id="ms4" text="on" start="465" end="467"/>
+<MOTION id="m15" text="cross" start="1550" end="1555"/>
+<MOTION_SIGNAL id="ms7" text="from" start="511" end="515"/>
+<MOTION id="m14" text="dive" start="1510" end="1514"/>
+<MOTION_SIGNAL id="ms6" text="uphill" start="504" end="510"/>
+<MOTION id="m17" text="land" start="1781" end="1785"/>
+<MOTION_SIGNAL id="ms9" text="through" start="581" end="588"/>
+<MOTION id="m16" text="move" start="1648" end="1652"/>
+<MOTION_SIGNAL id="ms8" text="in" start="558" end="560"/>
+<MOTION id="m19" text="discover" start="1378" end="1386"/>
+<MOTION id="m18" text="take" start="1932" end="1936"/>
+<MOTION_SIGNAL id="ms21" text="through" start="1950" end="1957"/>
+<MOTION_SIGNAL id="ms20" text="back" start="1945" end="1949"/>
+<MOTION id="m0" text="travelled" start="158" end="167"/>
+<MOTION id="m1" text="take" start="229" end="233"/>
+<MOTION id="m2" text="take" start="373" end="377"/>
+<MOTION id="m3" text="leads" start="401" end="406"/>
+<MOTION id="m4" text="driving" start="457" end="464"/>
+<MOTION id="m5" text="goes" start="491" end="495"/>
+<MOTION id="m6" text="drive" start="552" end="557"/>
+<MOTION id="m7" text="drove" start="575" end="580"/>
+<MOTION id="m20" text="Enduros" start="75" end="82"/>
+<MOTION id="m8" text="bend" start="838" end="842"/>
+<NONMOTION_EVENT id="e1" text="lie" start="1299" end="1302"/>
+<MOTION id="m9" text="drive" start="1026" end="1031"/>
+<MOTION id="m22" text="Enduro" start="2020" end="2026"/>
+<MOTION id="m21" text="jumping" start="1706" end="1713"/>
+<PLACE id="pl26" text="Romania" start="2073" end="2080"/>
+<MOTION_SIGNAL id="ms12" text="on" start="1037" end="1039"/>
+<PLACE id="pl27" text="country" start="2161" end="2168"/>
+<MOTION_SIGNAL id="ms11" text="on" start="847" end="849"/>
+<PLACE id="pl28" text="top" start="906" end="909"/>
+<MOTION_SIGNAL id="ms10" text="off" start="843" end="846"/>
+<MOTION_SIGNAL id="ms16" text="in a zigzag" start="1653" end="1664"/>
+<MOTION_SIGNAL id="ms15" text="into" start="1521" end="1525"/>
+<MOTION_SIGNAL id="ms14" text="toward" start="1364" end="1370"/>
+<MOTION_SIGNAL id="ms13" text="to" start="1145" end="1147"/>
+<MOTION_SIGNAL id="ms19" text="in" start="1786" end="1788"/>
+<MOTION_SIGNAL id="ms18" text="around" start="1730" end="1736"/>
+<MOTION_SIGNAL id="ms17" text="through" start="1665" end="1672"/>
+<PATH id="p10" text="bed" start="1584" end="1587"/>
+<PATH id="p11" text="way" start="1941" end="1944"/>
+<PLACE id="pl1" text="Romania" start="204" end="211"/>
+<PLACE id="pl0" text="point" start="126" end="131"/>
+<PLACE id="pl3" text="point" start="443" end="448"/>
+<PLACE id="pl2" text="point" start="284" end="289"/>
+<PLACE id="pl5" text="forest" start="565" end="571"/>
+<PLACE id="pl4" text="valley" start="520" end="526"/>
+<PLACE id="pl7" text="N 45? E 22?" start="685" end="696"/>
+<PLACE id="pl9" text="point" start="1184" end="1189"/>
+<PLACE id="pl8" text="point" start="974" end="979"/>
+<PATH id="p0" text="paths" start="260" end="265"/>
+<SPATIAL_ENTITY id="se14" text="We" start="1507" end="1509"/>
+<PATH id="p1" text="road" start="389" end="393"/>
+<SPATIAL_ENTITY id="se13" text="ferns" start="1423" end="1428"/>
+<PATH id="p2" text="street" start="472" end="478"/>
+<SPATIAL_ENTITY id="se16" text="arrow" start="1689" end="1694"/>
+<PATH id="p3" text="it" start="488" end="490"/>
+<SPATIAL_ENTITY id="se15" text="we" start="1645" end="1647"/>
+<PATH id="p4" text="section" start="599" end="606"/>
+<SPATIAL_ENTITY id="se10" text="motorcycles" start="1133" end="1144"/>
+<PATH id="p5" text="it" start="645" end="647"/>
+<PATH id="p6" text="road" start="861" end="865"/>
+<SPATIAL_ENTITY id="se12" text="we" start="1357" end="1359"/>
+<PATH id="p7" text="branches" start="940" end="948"/>
+<SPATIAL_ENTITY id="se11" text="We" start="1191" end="1193"/>
+<PATH id="p8" text="tracks" start="1057" end="1063"/>
+<PATH id="p9" text="bed" start="1247" end="1250"/>
+<SPATIAL_ENTITY id="se18" text="we" start="1771" end="1773"/>
+<SPATIAL_ENTITY id="se17" text="GPS" start="1702" end="1705"/>
+<SPATIAL_ENTITY id="se19" text="we" start="1929" end="1931"/>
+<QSLINK id="qsl0" fromID="e1" fromText="lie" toID="pl12" toText="clearing" trajector="e1" landmark="pl12" trigger="s4"/>
+<QSLINK id="qsl1" fromID="se16" fromText="arrow" toID="se17" toText="GPS" trajector="se16" landmark="se17" trigger="s8"/>
+<QSLINK id="qsl2" fromID="p5" fromText="it" toID="pl7" toText="N 45? E 22?" trajector="p5" landmark="pl7" trigger="s1"/>
+<QSLINK id="qsl3" fromID="p7" fromText="branches" toID="pl28" toText="top" trajector="p7" landmark="pl28" trigger="s2"/>
+<QSLINK id="qsl4" fromID="pl14" fromText="forest" toID="pl13" toText="top" trajector="pl14" landmark="pl13" trigger="s5"/>
+<OLINK id="ol0" fromID="p7" fromText="branches" toID="pl8" toText="point" trajector="p7" landmark="pl8" trigger="s0"/>
+<MOVELINK id="mvl0" fromID="m22" fromText="Enduro" toID="se19" toText="we" trigger="m22" mover="se19" landmark="pl25"/>
+<MOVELINK id="mvl1" fromID="m17" fromText="land" toID="se18" toText="we" trigger="m17" mover="se18" goal="pl22" motion_signalID="ms19"/>
+<MOVELINK id="mvl2" fromID="m11" fromText="got" toID="se9" toText="we" trigger="m11" mover="se9" motion_signalID="ms13"/>
+<MOVELINK id="mvl3" fromID="m0" fromText="travelled" toID="se2" toText="I" trigger="m0" mover="se2" landmark="pl1" motion_signalID="ms0"/>
+<MOVELINK id="mvl4" fromID="m0" fromText="travelled" toID="se3" toText="we" trigger="m0" mover="se3" landmark="pl1"/>
+<MOVELINK id="mvl5" fromID="m19" fromText="discover" toID="se12" toText="we" trigger="m19" mover="se12" goal="pl16"/>
+<MOVELINK id="mvl6" fromID="m4" fromText="driving" toID="se5" toText="we" trigger="m4" mover="se5" pathID="p2" landmark="pl5" motion_signalID="ms4" source="pl4"/>
+<MOVELINK id="mvl7" fromID="m14" fromText="dive" toID="se14" toText="We" trigger="m14" mover="se14" goal="pl18" motion_signalID="ms15"/>
+<MOVELINK id="mvl8" fromID="m11" fromText="got" toID="se10" toText="motorcycles" trigger="m11" mover="se10" motion_signalID="ms13"/>
+<MOVELINK id="mvl9" fromID="m4" fromText="driving" toID="se4" toText="we" trigger="m4" mover="se4" pathID="p2" source="pl4" motion_signalID="ms4"/>
+<MOVELINK id="mvl10" fromID="m5" fromText="goes" toID="p3" toText="it" trigger="m5" mover="p3" motion_signalID="ms6, ms7" source="pl4"/>
+<MOVELINK id="mvl11" fromID="m21" fromText="jumping" toID="se15" toText="we" trigger="m21" mover="se15" landmark="pl21"/>
+<MOVELINK id="mvl12" fromID="m16" fromText="move" toID="se16" toText="arrow" trigger="m16" mover="se16" landmark="pl21"/>
+<MOVELINK id="mvl13" fromID="m16" fromText="move" toID="se15" toText="we" trigger="m16" mover="se15" landmark="pl21" motion_signalID="ms16, ms17"/>
+<MOVELINK id="mvl14" fromID="m3" fromText="leads" toID="se5" toText="we" trigger="m3" mover="se5" source="pl4"/>
+<MOVELINK id="mvl15" fromID="m13" fromText="goe" toID="se12" toText="we" trigger="m13" mover="se12" goal="pl15" motion_signalID="ms14"/>
+<MOVELINK id="mvl16" fromID="m10" fromText="travel" toID="se10" toText="motorcycles" trigger="m10" mover="se10"/>
+<MOVELINK id="mvl17" fromID="m7" fromText="drove" toID="se6" toText="I" trigger="m7" mover="se6" pathID="p4" motion_signalID="ms9"/>
+<MOVELINK id="mvl18" fromID="m21" fromText="jumping" toID="se16" toText="arrow" trigger="m21" mover="se16" landmark="pl21" motion_signalID="ms18"/>
+<MOVELINK id="mvl19" fromID="m3" fromText="leads" toID="p3" toText="it" trigger="m3" mover="p3" source="pl4"/>
+<MOVELINK id="mvl20" fromID="m3" fromText="leads" toID="se4" toText="we" trigger="m3" mover="se4" motion_signalID="ms3" source="pl4"/>
+<MOVELINK id="mvl21" fromID="m5" fromText="goes" toID="p1" toText="road" trigger="m5" mover="p1" source="pl4"/>
+<MOVELINK id="mvl22" fromID="m3" fromText="leads" toID="p1" toText="road" trigger="m3" mover="p1" goal="pl3" motion_signalID="ms3" source="pl4"/>
+<MOVELINK id="mvl23" fromID="m12" fromText="cross" toID="se11" toText="We" trigger="m12" mover="se11" midPoint="pl10"/>
+<MOVELINK id="mvl24" fromID="m18" fromText="take" toID="se19" toText="we" trigger="m18" mover="se19" pathID="p11" landmark="pl25" motion_signalID="ms20, ms21"/>
+<MOVELINK id="mvl25" fromID="m15" fromText="cross" toID="se14" toText="We" trigger="m15" mover="se14"/>
+<MOVELINK id="mvl26" fromID="m8" fromText="bend" toID="se7" toText="We" trigger="m8" mover="se7" goal="p6" motion_signalID="ms10, ms11"/>
+<MOVELINK id="mvl27" fromID="m2" fromText="take" toID="se5" toText="we" trigger="m2" mover="se5" pathID="p1" source="pl4"/>
+<MOVELINK id="mvl28" fromID="m2" fromText="take" toID="se4" toText="we" trigger="m2" mover="se4" pathID="p1" source="pl4"/>
+<MOVELINK id="mvl29" fromID="m1" fromText="take" toID="se3" toText="we" trigger="m1" mover="se3" pathID="p0" goal="pl2" landmark="pl1"/>
+<MOVELINK id="mvl30" fromID="m6" fromText="drive" toID="se5" toText="we" trigger="m6" mover="se5" landmark="pl5" source="pl4" motion_signalID="ms8"/>
+<MOVELINK id="mvl31" fromID="m4" fromText="driving" toID="p3" toText="it" trigger="m4" mover="p3" source="pl4" motion_signalID="ms4"/>
+<MOVELINK id="mvl32" fromID="m6" fromText="drive" toID="se4" toText="we" trigger="m6" mover="se4" landmark="pl5" source="pl4"/>
+<MOVELINK id="mvl33" fromID="m10" fromText="travel" toID="se9" toText="we" trigger="m10" mover="se9"/>
+<MOVELINK id="mvl34" fromID="m9" fromText="drive" toID="se8" toText="We" trigger="m9" mover="se8" pathID="p8" motion_signalID="ms12"/>
+<MOVELINK id="mvl35" fromID="m5" fromText="goes" toID="se4" toText="we" trigger="m5" mover="se4" source="pl4"/>
+<MOVELINK id="mvl36" fromID="m2" fromText="take" toID="p3" toText="it" trigger="m2" mover="p3" source="pl4"/>
+<MOVELINK id="mvl37" fromID="m6" fromText="drive" toID="p3" toText="it" trigger="m6" mover="p3" landmark="pl5" motion_signalID="ms8" source="pl4"/>
+<MOVELINK id="mvl38" fromID="m2" fromText="take" toID="p1" toText="road" trigger="m2" mover="p1" source="pl4"/>
+<MOVELINK id="mvl39" fromID="m5" fromText="goes" toID="se5" toText="we" trigger="m5" mover="se5" landmark="pl5" source="pl4" motion_signalID="ms6, ms7"/>
+<MOVELINK id="mvl40" fromID="m1" fromText="take" toID="se2" toText="I" trigger="m1" mover="se2" landmark="pl1"/>
+<MOVELINK id="mvl41" fromID="m4" fromText="driving" toID="p1" toText="road" trigger="m4" mover="p1" motion_signalID="ms4" source="pl4"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+
+19-Apr-2012 -- The conditions of our further trip allowed it to make an excursion into the upstate of Romania and to visit this confluence point at this opportunity. Partially, the roads were very shabby and it seemed not only because of the last winter.
+
+We could park our car appr. 950 m away from the point and could make a comfortable walk to the mountain ridge. There is a herdsmen station not far from the point, but only the dogs came to visit us.
+
+Because we had good weather and still a bit time we decided to drive on small roads to the west to point 46N 24E.
+
+</TEXT>
+<TAGS>
+<PATH id="p0" text="ridge" start="362" end="367"/>
+<PATH id="p1" text="roads" start="536" end="541"/>
+<MOTION_SIGNAL id="ms1" text="to" start="346" end="348"/>
+<MOTION_SIGNAL id="ms0" text="into" start="84" end="88"/>
+<MOTION_SIGNAL id="ms3" text="to the west" start="542" end="553"/>
+<MOTION_SIGNAL id="ms2" text="on" start="527" end="529"/>
+<MOTION_SIGNAL id="ms4" text="to" start="554" end="556"/>
+<SPATIAL_SIGNAL id="s0" text="away from" start="292" end="301" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se1" text="car" start="276" end="279"/>
+<SPATIAL_ENTITY id="se0" text="We" start="258" end="260"/>
+<SPATIAL_ENTITY id="se3" text="us" start="453" end="455"/>
+<SPATIAL_ENTITY id="se2" text="dogs" start="434" end="438"/>
+<SPATIAL_ENTITY id="se4" text="we" start="507" end="509"/>
+<MOTION id="m0" text="excursion" start="74" end="83"/>
+<MOTION id="m1" text="visit" start="119" end="124"/>
+<MOTION id="m2" text="walk" start="341" end="345"/>
+<MOTION id="m3" text="came" start="439" end="443"/>
+<MOTION id="m4" text="drive" start="521" end="526"/>
+<NONMOTION_EVENT id="e0" text="park" start="267" end="271"/>
+<PLACE id="pl1" text="point" start="141" end="146"/>
+<PLACE id="pl0" text="Romania" start="104" end="111"/>
+<PLACE id="pl3" text="station" start="389" end="396"/>
+<PLACE id="pl2" text="point" start="306" end="311"/>
+<PLACE id="pl5" text="point" start="557" end="562"/>
+<PLACE id="pl4" text="point" start="414" end="419"/>
+<PLACE id="pl7" text="upstate" start="93" end="100"/>
+<PLACE id="pl6" text="46N 24E" start="563" end="570"/>
+<QSLINK id="qsl0" fromID="pl7" fromText="upstate" toID="pl0" toText="Romania" trajector="pl7" landmark="pl0" trigger=""/>
+<MOVELINK id="mvl0" fromID="m1" fromText="visit" toID="m1" toText="visit" trigger="m1" mover="m1" goal="pl1"/>
+<MOVELINK id="mvl1" fromID="m0" fromText="excursion" toID="m0" toText="excursion" trigger="m0" mover="m0" goal="pl7" motion_signalID="ms0"/>
+<MOVELINK id="mvl2" fromID="m3" fromText="came" toID="se2" toText="dogs" trigger="m3" mover="se2" goal="se3"/>
+<MOVELINK id="mvl3" fromID="m4" fromText="drive" toID="se4" toText="we" trigger="m4" mover="se4" pathID="p1" goal="pl5" motion_signalID="ms2, ms3"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

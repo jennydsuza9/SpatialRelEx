@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+Mazatl&#225;n to Copala &#8211; 4 days, 56 miles
+Friday, January 13th, 2006
+
+   After one day in the marina attempting to recover from seasickness, I tried to leave town. After eight miles, realizing I was still too sick, I pulled into the firehouse, where I spent the next 12 hours mostly asleep while the firemen traded ringtones between their phones.
+   I pedaled an easy 30 flat miles the next day, arriving in the town of Concordia at the foothills of the mountains. Immediately upon leaving town, I was struck by the greenness of the place&#8211;there are forests, singing birds, and even a few lizards on the roadside. Most of the rain falls here in the summer months, and this is the dry season, yet, in comparison to Baja, it was incredible.
+
+
+    I tried to leave Concordia, a town of about 10,000, the next morning, but puked and returned to my cheap hotel room for the rest of the day. The following morning, I thought I was well enough to bike, and I rode 15 miles uphill to the small town of Copala. Unable to continue, I sought out the local pharmacy and decided to stay put until my stomach stopped doing the things you don&#8217;t want to post about on the internet.
+</TEXT>
+<TAGS>
+<PLACE id="pl15" text="room" start="852" end="856"/>
+<PLACE id="pl18" text="pharmacy" start="1041" end="1049"/>
+<SPATIAL_SIGNAL id="s0" text="in" start="84" end="86" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se1" text="I" start="212" end="213"/>
+<SPATIAL_SIGNAL id="s1" text="where" start="241" end="246" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se0" text="I" start="138" end="139"/>
+<SPATIAL_SIGNAL id="s2" text="at" start="427" end="429" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se3" text="I" start="493" end="494"/>
+<SPATIAL_SIGNAL id="s3" text="on" start="593" end="595" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se2" text="I" start="247" end="248"/>
+<SPATIAL_SIGNAL id="s4" text="of" start="444" end="446" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se5" text="I" start="741" end="742"/>
+<SPATIAL_ENTITY id="se4" text="I" start="347" end="348"/>
+<SPATIAL_ENTITY id="se7" text="I" start="946" end="947"/>
+<SPATIAL_ENTITY id="se6" text="I" start="915" end="916"/>
+<SPATIAL_ENTITY id="se9" text="rain" start="622" end="626"/>
+<SPATIAL_ENTITY id="se8" text="I" start="1018" end="1019"/>
+<PLACE id="pl11" text="Baja" start="710" end="714"/>
+<PLACE id="pl12" text="Concordia" start="758" end="767"/>
+<PLACE id="pl13" text="town" start="771" end="775"/>
+<PLACE id="pl14" text="Copala" start="990" end="996"/>
+<PLACE id="pl10" text="here" start="633" end="637"/>
+<PLACE id="pl1" text="town" start="155" end="159"/>
+<PLACE id="pl0" text="marina" start="91" end="97"/>
+<PLACE id="pl3" text="place" start="530" end="535"/>
+<PLACE id="pl2" text="firehouse" start="230" end="239"/>
+<PLACE id="pl5" text="foothills" start="434" end="443"/>
+<PLACE id="pl4" text="town" start="409" end="413"/>
+<PLACE id="pl7" text="town" start="487" end="491"/>
+<PLACE id="pl6" text="mountains" start="451" end="460"/>
+<PLACE id="pl9" text="town" start="982" end="986"/>
+<PLACE id="pl8" text="Concordia" start="417" end="426"/>
+<PATH id="p0" text="roadside" start="600" end="608"/>
+<SPATIAL_ENTITY id="se14" text="I" start="190" end="191"/>
+<SPATIAL_ENTITY id="se13" text="forests" start="546" end="553"/>
+<SPATIAL_ENTITY id="se15" text="I" start="905" end="906"/>
+<SPATIAL_ENTITY id="se10" text="birds" start="563" end="568"/>
+<SPATIAL_ENTITY id="se11" text="lizards" start="585" end="592"/>
+<MOTION_SIGNAL id="ms1" text="in" start="402" end="404"/>
+<MOTION_SIGNAL id="ms0" text="into" start="221" end="225"/>
+<MOTION_SIGNAL id="ms3" text="uphill" start="962" end="968"/>
+<MOTION id="m10" text="sought" start="1020" end="1026"/>
+<MOTION_SIGNAL id="ms2" text="to" start="834" end="836"/>
+<MOTION_SIGNAL id="ms5" text="out" start="1027" end="1030"/>
+<MOTION id="m12" text="continue" start="1008" end="1016"/>
+<MOTION_SIGNAL id="ms4" text="to" start="969" end="971"/>
+<MOTION id="m0" text="leave" start="149" end="154"/>
+<MOTION id="m1" text="pulled" start="214" end="220"/>
+<MOTION id="m2" text="pedaled" start="349" end="356"/>
+<MOTION id="m3" text="arriving" start="393" end="401"/>
+<MOTION id="m4" text="leaving" start="479" end="486"/>
+<MOTION id="m5" text="falls" start="627" end="632"/>
+<MOTION id="m6" text="leave" start="752" end="757"/>
+<MOTION id="m7" text="returned" start="825" end="833"/>
+<NONMOTION_EVENT id="e0" text="spent" start="249" end="254"/>
+<MOTION id="m8" text="bike" start="936" end="940"/>
+<MOTION id="m9" text="rode" start="948" end="952"/>
+<NONMOTION_EVENT id="e2" text="realizing" start="180" end="189"/>
+<NONMOTION_EVENT id="e3" text="day" start="80" end="83"/>
+<QSLINK id="qsl0" fromID="pl8" fromText="Concordia" toID="pl5" toText="foothills" trajector="pl8" landmark="pl5" trigger="s2"/>
+<QSLINK id="qsl1" fromID="pl5" fromText="foothills" toID="pl6" toText="mountains" trajector="pl5" landmark="pl6" trigger=""/>
+<QSLINK id="qsl2" fromID="e3" fromText="day" toID="pl0" toText="marina" trajector="e3" landmark="pl0" trigger="s0"/>
+<QSLINK id="qsl3" fromID="pl5" fromText="foothills" toID="pl6" toText="mountains" trajector="pl5" landmark="pl6" trigger="s4"/>
+<QSLINK id="qsl4" fromID="pl8" fromText="Concordia" toID="pl6" toText="mountains" trajector="pl8" landmark="pl6" trigger="s4"/>
+<QSLINK id="qsl5" fromID="pl8" fromText="Concordia" toID="pl6" toText="mountains" trajector="pl8" landmark="pl6" trigger="s2"/>
+<QSLINK id="qsl6" fromID="e0" fromText="spent" toID="pl2" toText="firehouse" trajector="e0" landmark="pl2" trigger="s1"/>
+<MOVELINK id="mvl0" fromID="m5" fromText="falls" toID="se9" toText="rain" trigger="m5" mover="se9" goal="pl10"/>
+<MOVELINK id="mvl1" fromID="m8" fromText="bike" toID="se7" toText="I" trigger="m8" mover="se7"/>
+<MOVELINK id="mvl2" fromID="m4" fromText="leaving" toID="se3" toText="I" trigger="m4" mover="se3" source="pl7"/>
+<MOVELINK id="mvl3" fromID="m8" fromText="bike" toID="se6" toText="I" trigger="m8" mover="se6"/>
+<MOVELINK id="mvl4" fromID="m2" fromText="pedaled" toID="se4" toText="I" trigger="m2" mover="se4"/>
+<MOVELINK id="mvl5" fromID="m0" fromText="leave" toID="se0" toText="I" trigger="m0" mover="se0" source="pl1"/>
+<MOVELINK id="mvl6" fromID="m6" fromText="leave" toID="se5" toText="I" trigger="m6" mover="se5" source="pl12"/>
+<MOVELINK id="mvl7" fromID="m9" fromText="rode" toID="se6" toText="I" trigger="m9" mover="se6" motion_signalID="ms3"/>
+<MOVELINK id="mvl8" fromID="m10" fromText="sought" toID="se8" toText="I" trigger="m10" mover="se8" goal="pl18" motion_signalID="ms5"/>
+<MOVELINK id="mvl9" fromID="m12" fromText="continue" toID="se8" toText="I" trigger="m12" mover="se8"/>
+<MOVELINK id="mvl10" fromID="m9" fromText="rode" toID="se7" toText="I" trigger="m9" mover="se7" goal="pl14" motion_signalID="ms3, ms4"/>
+<MOVELINK id="mvl11" fromID="m7" fromText="returned" toID="se5" toText="I" trigger="m7" mover="se5" motion_signalID="ms2" source="pl12"/>
+<MOVELINK id="mvl12" fromID="m1" fromText="pulled" toID="se1" toText="I" trigger="m1" mover="se1" goal="pl2" motion_signalID="ms0"/>
+<MOVELINK id="mvl13" fromID="m3" fromText="arriving" toID="se4" toText="I" trigger="m3" mover="se4" goal="pl8" motion_signalID="ms1"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="US-ASCII"?><SpaceEvalTaskv1.2>
+<TEXT>
+The Melting Spine of the Andes
+Wednesday, January 17th, 2007
+   Since Peru, I have followed the Andes south, crossing the continental divide at least five times and gazing at peaks that stretch to 20,000 feet. The tallest of these peaks have been covered in snow and ice, and pictures that you see say more than I can about these experiences.
+
+  
+    I have written about this before, but passing through Chile has made the point even more clear. So much agriculture and so many people along these mountains rely on this snow pack to grow their crops and have drinking water. So much of the land along these mountains is dry &#226;&#8364;&#8220; I went for a month, once, without seeing a single forest &#226;&#8364;&#8220; yet the people have water during the dry seasons because of snow and ice in the mountains. (See a scientific article about how this is a problem worldwide, and not just along the Andes).
+
+   Chile has a climate very similar to California, and, like California, Chile grows an amazing variety of fruits and nuts. Next time you are in the supermarket in the winter (if you live in the northern hemisphere) take a look to see where the fruits come from. Quite likely, there will be a tag on the fruit saying &#226;&#8364;&#732;product of Chile.&#226;&#8364;&#8482;
+
+   Like California, during central Chile&#226;&#8364;&#8482;s summer, it does not rain, yet these orchards and vineyards have water because of snowmelt from the mountains. Below you can see photos from where I entered Chile most recently, via the Valley de Elqui, one of Chile&#226;&#8364;&#8482;s most productive regions for vineyards. Far up in the valley, above 15,000 feet, you see snow and glaciers. Further down, you see a dry landscape with a river. Even further down, you see highly productive agriculture.
+
+  
+    While in Santiago, I decided I wanted to climb into the mountains to see these glaciers and snow. After visiting the local mountaineering club, I convinced Roberto to join me, and in two days, we hiked to the top of El Plomo, a 17,800 ft peak overlooking Santiago. From the top, we gazed on the tallest part of the Andes, including Aconcagua, South America&#226;&#8364;&#8482;s tallest mountain. All these glaciers that you see in these photos are shrinking, and are all essential for the agriculture that I have biked by here in Chile.
+</TEXT>
+<TAGS>
+<PLACE id="pl22" text="Santiago" start="1965" end="1973"/>
+<PLACE id="pl23" text="top" start="1919" end="1922"/>
+<PLACE id="pl24" text="part" start="2013" end="2017"/>
+<PLACE id="pl25" text="Aconcagua" start="2042" end="2051"/>
+<PLACE id="pl20" text="El Plomo" start="1926" end="1934"/>
+<PLACE id="pl21" text="peak" start="1948" end="1952"/>
+<PLACE id="pl19" text="Santiago" start="1719" end="1727"/>
+<PLACE id="pl15" text="Chile" start="1422" end="1427"/>
+<PLACE id="pl16" text="Valley de Elqui" start="1451" end="1466"/>
+<PLACE id="pl17" text="northern hemisphere" start="1074" end="1093"/>
+<SPATIAL_SIGNAL id="s0" text="south" start="103" end="108" semantic_type="DIRECTIONAL"/>
+<SPATIAL_ENTITY id="se1" text="snow" start="259" end="263"/>
+<SPATIAL_SIGNAL id="s1" text="covered" start="248" end="255" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se0" text="I" start="77" end="78"/>
+<SPATIAL_SIGNAL id="s2" text="along" start="487" end="492" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se3" text="people" start="480" end="486"/>
+<SPATIAL_SIGNAL id="s3" text="along" start="597" end="602" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se2" text="ice" start="268" end="271"/>
+<SPATIAL_ENTITY id="se24" text="we" start="1989" end="1991"/>
+<SPATIAL_SIGNAL id="s4" text="in" start="1021" end="1023" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se5" text="fruits" start="1124" end="1130"/>
+<SPATIAL_SIGNAL id="s5" text="on" start="1176" end="1178" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se4" text="you" start="1013" end="1016"/>
+<SPATIAL_SIGNAL id="s6" text="up" start="1528" end="1530" semantic_type="DIRECTIONAL"/>
+<SPATIAL_ENTITY id="se7" text="fruit" start="1183" end="1188"/>
+<SPATIAL_ENTITY id="se21" text="ice" start="760" end="763"/>
+<SPATIAL_SIGNAL id="s7" text="in" start="1531" end="1533" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se6" text="tag" start="1172" end="1175"/>
+<SPATIAL_ENTITY id="se20" text="snow" start="751" end="755"/>
+<SPATIAL_SIGNAL id="s8" text="in" start="764" end="766" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_ENTITY id="se9" text="snow" start="1573" end="1577"/>
+<SPATIAL_ENTITY id="se23" text="I" start="1729" end="1730"/>
+<SPATIAL_SIGNAL id="s9" text="down" start="1600" end="1604" semantic_type="DIR_TOP"/>
+<SPATIAL_ENTITY id="se8" text="I" start="1412" end="1413"/>
+<SPATIAL_ENTITY id="se22" text="I" start="313" end="314"/>
+<PLACE id="pl12" text="Chile" start="1210" end="1215"/>
+<PLACE id="pl13" text="California" start="1229" end="1239"/>
+<PLACE id="pl10" text="Chile" start="952" end="957"/>
+<MOTION_SIGNAL id="ms1" text="through" start="398" end="405"/>
+<MOTION_SIGNAL id="ms0" text="to" start="195" end="197"/>
+<MOTION id="m11" text="biked" start="2206" end="2211"/>
+<MOTION_SIGNAL id="ms3" text="into" start="1757" end="1761"/>
+<MOTION id="m10" text="shrinking" start="2141" end="2150"/>
+<MOTION_SIGNAL id="ms2" text="from" start="1136" end="1140"/>
+<MOTION_SIGNAL id="ms5" text="by" start="2212" end="2214"/>
+<MOTION id="m12" text="went" start="632" end="636"/>
+<MOTION_SIGNAL id="ms4" text="to" start="1912" end="1914"/>
+<MOTION_SIGNAL id="ms6" text="via" start="1443" end="1446"/>
+<PLACE id="pl39" text="here" start="2215" end="2219"/>
+<MOTION id="m0" text="followed" start="84" end="92"/>
+<MOTION id="m1" text="crossing" start="110" end="118"/>
+<MOTION id="m2" text="stretch" start="187" end="194"/>
+<MOTION id="m3" text="passing" start="390" end="397"/>
+<MOTION id="m4" text="come" start="1131" end="1135"/>
+<PLACE id="pl33" text="supermarket" start="1028" end="1039"/>
+<MOTION id="m5" text="entered" start="1414" end="1421"/>
+<MOTION id="m6" text="climb" start="1751" end="1756"/>
+<MOTION id="m7" text="visiting" start="1814" end="1822"/>
+<NONMOTION_EVENT id="e0" text="agriculture" start="1689" end="1700"/>
+<NONMOTION_EVENT id="e1" text="agriculture" start="2182" end="2193"/>
+<MOTION id="m9" text="hiked" start="1906" end="1911"/>
+<NONMOTION_EVENT id="e2" text="live" start="1062" end="1066"/>
+<PLACE id="pl31" text="mountains" start="1766" end="1775"/>
+<PLACE id="pl32" text="mountains" start="609" end="618"/>
+<PLACE id="pl26" text="mountain" start="2079" end="2087"/>
+<PLACE id="pl27" text="landscape" start="1620" end="1629"/>
+<PLACE id="pl29" text="Chile" start="2223" end="2228"/>
+<PLACE id="pl1" text="peaks" start="176" end="181"/>
+<PLACE id="pl0" text="Peru" start="71" end="75"/>
+<PLACE id="pl3" text="Chile" start="406" end="411"/>
+<PLACE id="pl2" text="peaks" start="232" end="237"/>
+<PLACE id="pl5" text="land" start="592" end="596"/>
+<PLACE id="pl4" text="mountains" start="499" end="508"/>
+<PLACE id="pl7" text="Chile" start="882" end="887"/>
+<PLACE id="pl6" text="mountains" start="771" end="780"/>
+<PLACE id="pl9" text="California" start="940" end="950"/>
+<PLACE id="pl8" text="California" start="918" end="928"/>
+<PATH id="p0" text="Andes" start="97" end="102"/>
+<SPATIAL_ENTITY id="se14" text="me" start="1882" end="1884"/>
+<PATH id="p1" text="valley" start="1538" end="1544"/>
+<SPATIAL_ENTITY id="se13" text="Roberto" start="1866" end="1873"/>
+<SPATIAL_ENTITY id="se16" text="I" start="2199" end="2200"/>
+<PATH id="p3" text="divide" start="135" end="141"/>
+<SPATIAL_ENTITY id="se15" text="we" start="1903" end="1905"/>
+<PATH id="p4" text="glaciers" start="1582" end="1590"/>
+<SPATIAL_ENTITY id="se10" text="I" start="352" end="353"/>
+<PATH id="p5" text="river" start="1637" end="1642"/>
+<PATH id="p6" text="Andes" start="2025" end="2030"/>
+<SPATIAL_ENTITY id="se12" text="I" start="1854" end="1855"/>
+<PATH id="p7" text="glaciers" start="2099" end="2107"/>
+<SPATIAL_ENTITY id="se11" text="I" start="1739" end="1740"/>
+<SPATIAL_ENTITY id="se18" text="I" start="630" end="631"/>
+<SPATIAL_ENTITY id="se17" text="club" start="1848" end="1852"/>
+<SPATIAL_SIGNAL id="s11" text="in" start="1716" end="1718" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s10" text="down" start="1657" end="1661" semantic_type="DIR_TOP"/>
+<SPATIAL_SIGNAL id="s13" text="in" start="2220" end="2222" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s12" text="overlooking" start="1953" end="1964" semantic_type="DIR_TOP"/>
+<SPATIAL_SIGNAL id="s15" text="of" start="2018" end="2020" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s14" text="of" start="1923" end="1925" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s17" text="with" start="1630" end="1634" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s16" text="including" start="2032" end="2041" semantic_type="TOPOLOGICAL"/>
+<SPATIAL_SIGNAL id="s19" text="in" start="1067" end="1069" semantic_type="TOPOLOGICAL"/>
+<QSLINK id="qsl0" fromID="pl39" fromText="here" toID="pl29" toText="Chile" trajector="pl39" landmark="pl29" trigger="s13"/>
+<QSLINK id="qsl1" fromID="pl23" fromText="top" toID="pl20" toText="El Plomo" trajector="pl23" landmark="pl20" trigger=""/>
+<QSLINK id="qsl2" fromID="pl24" fromText="part" toID="p6" toText="Andes" trajector="pl24" landmark="p6" trigger="s15"/>
+<OLINK id="ol0" fromID="se1" fromText="snow" toID="pl2" toText="peaks" trajector="se1" landmark="pl2" trigger="s1"/>
+<QSLINK id="qsl3" fromID="se1" fromText="snow" toID="pl2" toText="peaks" trajector="se1" landmark="pl2" trigger="s1"/>
+<OLINK id="ol1" fromID="pl21" fromText="peak" toID="pl22" toText="Santiago" trajector="pl21" landmark="pl22" trigger="s12"/>
+<QSLINK id="qsl4" fromID="pl21" fromText="peak" toID="pl22" toText="Santiago" trajector="pl21" landmark="pl22" trigger="s12"/>
+<QSLINK id="qsl5" fromID="p5" fromText="river" toID="pl27" toText="landscape" trajector="p5" landmark="pl27" trigger="s17"/>
+<QSLINK id="qsl6" fromID="se6" fromText="tag" toID="se7" toText="fruit" trajector="se6" landmark="se7" trigger="s5"/>
+<QSLINK id="qsl7" fromID="pl25" fromText="Aconcagua" toID="pl24" toText="part" trajector="pl25" landmark="pl24" trigger="s16"/>
+<OLINK id="ol2" fromID="pl5" fromText="land" toID="pl32" toText="mountains" trajector="pl5" landmark="pl32" trigger="s3"/>
+<QSLINK id="qsl8" fromID="pl5" fromText="land" toID="pl32" toText="mountains" trajector="pl5" landmark="pl32" trigger="s3"/>
+<QSLINK id="qsl9" fromID="m11" fromText="biked" toID="pl29" toText="Chile" trajector="m11" landmark="pl29" trigger="s13"/>
+<QSLINK id="qsl10" fromID="se21" fromText="ice" toID="pl6" toText="mountains" trajector="se21" landmark="pl6" trigger="s8"/>
+<QSLINK id="qsl11" fromID="pl25" fromText="Aconcagua" toID="p6" toText="Andes" trajector="pl25" landmark="p6" trigger="s16"/>
+<QSLINK id="qsl12" fromID="se4" fromText="you" toID="pl33" toText="supermarket" trajector="se4" landmark="pl33" trigger="s4"/>
+<QSLINK id="qsl13" fromID="pl23" fromText="top" toID="pl20" toText="El Plomo" trajector="pl23" landmark="pl20" trigger="s14"/>
+<OLINK id="ol3" fromID="se3" fromText="people" toID="pl4" toText="mountains" trajector="se3" landmark="pl4" trigger="s2"/>
+<QSLINK id="qsl14" fromID="se3" fromText="people" toID="pl4" toText="mountains" trajector="se3" landmark="pl4" trigger="s2"/>
+<QSLINK id="qsl15" fromID="pl24" fromText="part" toID="p6" toText="Andes" trajector="pl24" landmark="p6" trigger=""/>
+<OLINK id="ol4" fromID="pl23" fromText="top" toID="pl22" toText="Santiago" trajector="pl23" landmark="pl22" trigger="s12"/>
+<QSLINK id="qsl16" fromID="pl23" fromText="top" toID="pl22" toText="Santiago" trajector="pl23" landmark="pl22" trigger="s12"/>
+<QSLINK id="qsl17" fromID="se20" fromText="snow" toID="pl6" toText="mountains" trajector="se20" landmark="pl6" trigger="s8"/>
+<MOVELINK id="mvl0" fromID="m5" fromText="entered" toID="se8" toText="I" trigger="m5" mover="se8" goal="pl15" motion_signalID="ms6"/>
+<MOVELINK id="mvl1" fromID="m10" fromText="shrinking" toID="p7" toText="glaciers" trigger="m10" mover="p7"/>
+<MOVELINK id="mvl2" fromID="m2" fromText="stretch" toID="se0" toText="I" trigger="m2" mover="se0" motion_signalID="ms0"/>
+<MOVELINK id="mvl3" fromID="m3" fromText="passing" toID="se10" toText="I" trigger="m3" mover="se10" motion_signalID="ms1" midPoint="pl3"/>
+<MOVELINK id="mvl4" fromID="m7" fromText="visiting" toID="se12" toText="I" trigger="m7" mover="se12"/>
+<MOVELINK id="mvl5" fromID="m11" fromText="biked" toID="se16" toText="I" trigger="m11" mover="se16" landmark="pl39" motion_signalID="ms5"/>
+<MOVELINK id="mvl6" fromID="m6" fromText="climb" toID="se11" toText="I" trigger="m6" mover="se11" goal="pl31" motion_signalID="ms3"/>
+<MOVELINK id="mvl7" fromID="m12" fromText="went" toID="se18" toText="I" trigger="m12" mover="se18"/>
+<MOVELINK id="mvl8" fromID="m9" fromText="hiked" toID="se15" toText="we" trigger="m9" mover="se15" goal="pl23" motion_signalID="ms4"/>
+<MOVELINK id="mvl9" fromID="m0" fromText="followed" toID="se0" toText="I" trigger="m0" mover="se0" pathID="p0"/>
+<MOVELINK id="mvl10" fromID="m4" fromText="come" toID="se5" toText="fruits" trigger="m4" mover="se5" motion_signalID="ms2"/>
+<MOVELINK id="mvl11" fromID="m9" fromText="hiked" toID="se12" toText="I" trigger="m9" mover="se12" motion_signalID="ms4"/>
+<MOVELINK id="mvl12" fromID="m2" fromText="stretch" toID="pl1" toText="peaks" trigger="m2" mover="pl1" motion_signalID="ms0"/>
+<MOVELINK id="mvl13" fromID="m1" fromText="crossing" toID="se0" toText="I" trigger="m1" mover="se0" midPoint="p3"/>
+</TAGS>
+</SpaceEvalTaskv1.2>

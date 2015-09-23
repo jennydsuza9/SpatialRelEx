@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+        Museo del Prado
+        Madrid’s pride, the Prado museum, is indisputably the
+        world’s greatest collection of Spanish paintings and one of the world’s
+        most prestigious museums. Even apart from its Spanish treasures, it
+        deserves high priority on any visitor’s agenda for its hundreds of
+        famous foreign works, especially of the Italian and Flemish schools.
+        This immense hoard of art works, ranging from the 12th to the 19th
+        century, was collected and donated by Spain’s Hapsburg and Bourbon
+        kings, private patrons of the arts, and convents and monasteries around
+        the country.
+        Despite its greatness, the museum came about somewhat by
+        chance. More than two centuries ago, Carlos III commissioned the
+        architect Juan de Villanueva, draftsman of the royal palace, to design
+        this Neo-classical building. It was to have serv­ed as a museum of
+        natural history, but after some eventful delays (Napoleon’s invasion
+        badly damaged the building), its mission was diverted to art, and the
+        royal museum of painting was inaugurated in 1819. In 1868 it became El
+        Mu­seo del Prado.
+        In the early 1990s, modernization projects, such as
+        desperately needed air conditioning and humidity control, caused
+        upheaval in the museum. Although these are now completed, further
+        renovation and work on an extension are underway. The famed Spanish
+        architect Rafael Moneo, a Pritzker prize winner, is set to begin the
+        Prado’s long-awaited expansion so that more of its vast collection can
+        be exhibited.
+        The Prado owns perhaps 10,000 paintings, but at present can
+        only display about 10 percent of them (the overflow is either in
+        storage or on loan to museums around the world. ) Seeing and
+        appreciating even that many great paintings could occupy a serious
+        student of art for many weeks. Short-term visitors may have to settle
+        for the condensed highlights, perhaps in a hectic couple of hours.
+        To take in more Old Masters per mile, it’s vital to plan
+        ahead. Decide what you want to see and head for it first, even if it
+        demands that you rush past obvious masterworks. Given the usual crowds,
+        you’d be wise to rest your feet from time to time, or seek refreshment
+        in the basement restaurant.
+]]></TEXT>
+<TAGS>
+<PLACE id="pl16" start="1052" end="1054" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl17" start="1101" end="1125" text="royal museum of painting" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl18" start="1159" end="1161" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl19" start="1169" end="1196" text="El         Mu­seo del Prado" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl20" start="1355" end="1361" text="museum" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl21" start="1566" end="1571" text="Prado" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl22" start="1613" end="1615" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl23" start="1671" end="1676" text="Prado" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl24" start="1808" end="1815" text="storage" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="FALSE" gquant="" scopes="" comment="" />
+<PLACE id="pl2" start="192" end="199" text="museums" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl3" start="217" end="219" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl4" start="240" end="242" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl25" start="2422" end="2432" text="restaurant" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="basement" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl5" start="302" end="304" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl0" start="33" end="39" text="Madrid" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl7" start="516" end="521" text="Spain" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl1" start="53" end="65" text="Prado museum" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl6" start="593" end="601" text="convents" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl8" start="606" end="617" text="monasteries" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl9" start="637" end="644" text="country" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl10" start="662" end="664" text="it" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl11" start="681" end="687" text="museum" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl12" start="839" end="851" text="royal palace" type="" dimensionality="AREA" form="NAM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl15" start="890" end="898" text="building" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl13" start="900" end="902" text="It" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<PLACE id="pl14" start="928" end="934" text="museum" type="" dimensionality="AREA" form="NOM" domain="" continent="" state="" country="" ctv="" gazref="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se1" start="1041" end="1049" text="building" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se8" start="1778" end="1786" text="overflow" type="" dimensionality="AREA" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se2" start="2184" end="2188" text="what" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se3" start="2189" end="2192" text="you" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se4" start="2218" end="2220" text="it" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se6" start="2260" end="2263" text="you" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se5" start="2282" end="2293" text="masterworks" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<SPATIAL_ENTITY id="se7" start="2327" end="2330" text="you" type="" dimensionality="POINT" form="NOM" domain="" latLong="" elevation="" mod="" dcl="FALSE" countable="TRUE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e0" start="1339" end="1347" text="upheaval" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<NONMOTION_EVENT id="e1" start="2386" end="2397" text="refreshment" domain="" latLong="" elevation="" mod="" countable="FALSE" gquant="" scopes="" comment="" />
+<MOTION id="m0" start="1587" end="1596" text="expansion" domain="" latLong="" elevation="" motion_type="MANNER" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" mod="" countable="TRUE" gquant="" scopes="" comment="" />
+<MOTION id="m1" start="2209" end="2213" text="head" domain="" latLong="" elevation="" motion_type="PATH" motion_class="HIT" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<MOTION id="m2" start="2264" end="2268" text="rush" domain="" latLong="" elevation="" motion_type="COMPOUND" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" mod="" countable="" gquant="" scopes="" comment="" />
+<SPATIAL_SIGNAL id="s1" start="1348" end="1350" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s2" start="1797" end="1799" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s3" start="2406" end="2408" text="in" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<SPATIAL_SIGNAL id="s0" start="618" end="624" text="around" cluster="" semantic_type="TOPOLOGICAL" comment="" />
+<MOTION_SIGNAL id="ms0" start="2214" end="2217" text="for" motion_signal_type="PATH" comment="" />
+<MOTION_SIGNAL id="ms1" start="2269" end="2273" text="past" motion_signal_type="PATH" comment="" />
+<QSLINK id="qsl0" fromID="pl6" fromText="convents" toID="pl9" toText="country" relType="IN" trajector="pl6" landmark="pl9" trigger="s0" comment="" />
+<QSLINK id="qsl1" fromID="pl8" fromText="monasteries" toID="pl9" toText="country" relType="IN" trajector="pl8" landmark="pl9" trigger="s0" comment="" />
+<QSLINK id="qsl2" fromID="e0" fromText="upheaval" toID="pl20" toText="museum" relType="EQ" trajector="e0" landmark="pl20" trigger="s1" comment="" />
+<QSLINK id="qsl3" fromID="se8" fromText="overflow" toID="pl24" toText="storage" relType="IN" trajector="se8" landmark="pl24" trigger="s2" comment="" />
+<QSLINK id="qsl4" fromID="e1" fromText="refreshment" toID="pl25" toText="restaurant" relType="IN" trajector="e1" landmark="pl25" trigger="s3" comment="" />
+<MOVELINK id="mvl0" fromID="m0" fromText="expansion" toID="pl21" toText="Prado" trigger="m0" source="" goal="" midPoint="" mover="pl21" landmark="" goal_reached="" pathID="" motion_signalID="" comment="" />
+<MOVELINK id="mvl1" fromID="m1" fromText="head" toID="se3" toText="you" trigger="m1" source="" goal="se4" midPoint="" mover="se3" landmark="" goal_reached="YES" pathID="" motion_signalID="ms0" comment="" />
+<MOVELINK id="mvl2" fromID="m2" fromText="rush" toID="se6" toText="you" trigger="m2" source="" goal="" midPoint="" mover="se6" landmark="se5" goal_reached="" pathID="" motion_signalID="ms1" comment="" />
+<METALINK id="metal0" fromID="pl21" fromText="Prado" toID="pl1" toText="Prado museum" objectID1="pl21" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal1" fromID="pl23" fromText="Prado" toID="pl1" toText="Prado museum" objectID1="pl23" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal2" fromID="pl1" fromText="Prado museum" toID="pl2" toText="museums" objectID1="pl1" objectID2="pl2" relType="SUBCOREFERENCE" comment="" />
+<METALINK id="metal3" fromID="pl3" fromText="it" toID="pl1" toText="Prado museum" objectID1="pl3" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal4" fromID="pl4" fromText="it" toID="pl1" toText="Prado museum" objectID1="pl4" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal5" fromID="pl5" fromText="it" toID="pl1" toText="Prado museum" objectID1="pl5" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal6" fromID="pl9" fromText="country" toID="pl7" toText="Spain" objectID1="pl9" objectID2="pl7" relType="COREFERENCE" comment="" />
+<METALINK id="metal7" fromID="pl10" fromText="it" toID="pl1" toText="Prado museum" objectID1="pl10" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal8" fromID="pl11" fromText="museum" toID="pl1" toText="Prado museum" objectID1="pl11" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal9" fromID="pl15" fromText="building" toID="pl1" toText="Prado museum" objectID1="pl15" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal10" fromID="pl13" fromText="It" toID="pl1" toText="Prado museum" objectID1="pl13" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal11" fromID="pl14" fromText="museum" toID="pl1" toText="Prado museum" objectID1="pl14" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal12" fromID="pl16" fromText="it" toID="pl1" toText="Prado museum" objectID1="pl16" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal13" fromID="pl17" fromText="royal museum of painting" toID="pl1" toText="Prado museum" objectID1="pl17" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal14" fromID="pl18" fromText="it" toID="pl1" toText="Prado museum" objectID1="pl18" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal15" fromID="pl19" fromText="El         Mu­seo del Prado" toID="pl1" toText="Prado museum" objectID1="pl19" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal16" fromID="pl20" fromText="museum" toID="pl1" toText="Prado museum" objectID1="pl20" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal17" fromID="se1" fromText="building" toID="pl1" toText="Prado museum" objectID1="se1" objectID2="pl1" relType="COREFERENCE" comment="" />
+<METALINK id="metal18" fromID="se6" fromText="you" toID="se3" toText="you" objectID1="se6" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal19" fromID="se7" fromText="you" toID="se3" toText="you" objectID1="se7" objectID2="se3" relType="COREFERENCE" comment="" />
+<METALINK id="metal20" fromID="se4" fromText="it" toID="se2" toText="what" objectID1="se4" objectID2="se2" relType="COREFERENCE" comment="" />
+</TAGS>
+</SpaceEvalTaskv1.2>
