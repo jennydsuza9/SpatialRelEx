@@ -1,7 +1,7 @@
 # SpatialRelEx
 SpatialRelEx: Spatial Relation Extraction System
 
-A multi-class classification system for automatically annotating spatial relations between spatial elements in text. 
+A multi-pass sieve classifier for automatically annotating spatial relations between spatial elements in text. 
 
 The SpatialRelEx tool has been written in Java and is released as free software.
 
