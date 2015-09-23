@@ -7,11 +7,11 @@ The SpatialRelEx tool has been written in Java and is released as free software.
 
 #### Prerequisites:
 
-1) Input data must be in `xml` format. ([SpaceEval](http://alt.qcri.org/semeval2015/task8/) data used to train, develop, and test **SpatialRelEx** has been provided in the `main\resources\space-eval` folder.)
+1) Input data must be in `xml` format (For convenience, [SpaceEval](http://alt.qcri.org/semeval2015/task8/) data used to train, develop, and test **SpatialRelEx** has been included in the `main\resources\space-eval` folder.)
 
-2) External libraries not included in this download but used by the tool are [Apache Commons IO v2.4](https://commons.apache.org/proper/commons-io/download_io.cgi) and [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml#Download). Before running the tool, these libraries must be downloaded and the Java classpath must be set with the paths to the library `jar` files.
+2) External libraries not included in this download but needed by the tool are [Apache Commons IO v2.4](https://commons.apache.org/proper/commons-io/download_io.cgi) and [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml#Download). Before running the tool, these libraries must be downloaded and the Java classpath must be set with the paths to the libraries' `jar` files.
 
-3) In addition, the tool also relies on [JAWS](http://lyle.smu.edu/~tspell/jaws/), the Java API for WordNet Searching, which is included in `main\resources\` folder. The Java classpath must be set to its `jar` file.
+3) In addition, the tool also relies on [JAWS](http://lyle.smu.edu/~tspell/jaws/), the Java API for WordNet Searching, which is included in `main\resources\` folder. The Java classpath must be set to its `jar` file as well.
 
 ### Usage:
 
