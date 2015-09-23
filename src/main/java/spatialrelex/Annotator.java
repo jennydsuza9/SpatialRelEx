@@ -58,7 +58,7 @@ public class Annotator {
                 
                 String test = "main\\data\\test"+relation+".txt";                
                 writeUnlabelledSVMData(fileStr, tripletsSpatialRelations, new FileOutputStream(test));
-                                
+
                 String model = Main.trainDir == null ? Main.RESOURCES_DIR+"\\models\\model"+relation+".txt" : "main\\data\\model"+relation+".txt";
                 String result = "main\\data\\result"+relation+".txt";
                 Evaluator.classify(test, model, result);
@@ -67,6 +67,8 @@ public class Annotator {
             //writes the annotations to output            
             String outputFileName = outputDir.toString()+"\\"+new File(fileStr).getName();
             document.writeRelationAnnotations(outputFileName);
+            
+            //System.exit(1);
         }
     }
     

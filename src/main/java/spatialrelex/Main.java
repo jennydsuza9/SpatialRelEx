@@ -57,12 +57,14 @@ public class Main {
         trainer.setFeatures(relation);
         Features.setUniFeaturesSizes();   
         
+        String train = "main\\data\\train"+relation+".txt";
+        String model = RESOURCES_DIR+"\\models\\model"+relation+".txt"; 
+        
         Main.train = false;
         tester.setFeatures(relation);
         String test = "main\\data\\test"+relation+".txt";
         tester.writeLabelledSVMData(new FileOutputStream(test), relation);    
         
-        String model = Main.RESOURCES_DIR+"\\models\\model"+relation+".txt";
         String result = "main\\data\\result"+relation+".txt";        
         Evaluator.classify(test, model, result);
         
@@ -96,7 +98,7 @@ public class Main {
             testArr = FileUtils.readFileToString(new File("main\\data\\test"+relation+".txt")).split("\\n");
             resultArr = FileUtils.readFileToString(new File("main\\data\\result"+relation+".txt")).split("\\n");
             SpatialRelation.fileTriggerMoverRoleOtherElement = getMovelinkSubpart(testArr, resultArr, SpatialRelation.fileTriggerMoverRoleOtherElement, relation);                    
-        }        
+        }
         
         Annotator annotator = new Annotator(tester.fileDocumentObject);
         annotator.markUpSpatialRelations();        
@@ -279,13 +281,9 @@ public class Main {
                 args[2].equals("-dev") && (new File(args[3])).exists() && 
                 args[4].equals("-test") && (new File(args[5])).exists()) {
             main = new Main(args);
-            //main.developRelationExtractionModel();
-            
-            SpatialRelation.setOrderedSievesList();
-            System.out.println(SpatialRelation.ORDERED_SIEVES);
-            
-            //main.trainAndMarkUpRawXMLWithRelations();
-            main.trainModel();
+            main.developRelationExtractionModel();            
+            main.trainAndMarkUpRawXMLWithRelations();
+            //main.trainModel();
         }     
         else if (args.length == 2 && args[0].equals("-test") && (new File(args[1])).exists()) {
             SpatialRelation.setOrderedSievesList();
@@ -294,15 +292,17 @@ public class Main {
         }
         else {
             System.out.println("=======================================");
-            System.out.println("To use only our features, provide your training, development, and test data.");
-            System.out.println("Usage: java main.java.spatialrelex.Main "
+            System.out.println("To train and develop a new spatial relation extraction model, "
+                    + "and annotate test data with spatial relations using the newly developed model.");
+            System.out.println("Usage: java -Dwordnet.database.dir=main\\resources\\wordnet-dict\\ main.java.spatialrelex.Main "
                     + "-train <YOUR TRAIN DIRECTORY> "
                     + "-dev <YOUR DEVELOPMENT DIRECTORY> "
                     + "-test <YOUR TEST DIRECTORY>");
             System.out.println(" ");
-            System.out.println("To use our features and our trained model, provide your test data to annotate.");
-            System.out.println("Usage: java main.java.spatialrelex.Main "
+            System.out.println("To annotate test data using our pre-trained spatial relation extraction models.");
+            System.out.println("Usage: java -Dwordnet.database.dir=main\\resources\\wordnet-dict\\ main.java.spatialrelex.Main "
                     + "-test <YOUR TEST DIRECTORY>");
+            System.out.println("*The output in both cases will be writtent to the `src\\output\\` folder*.");
             System.out.println("=======================================");
             
             System.exit(1);
