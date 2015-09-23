@@ -23,7 +23,7 @@ The SpatialRelEx tool has been written in Java and is released as free software.
 
     java -Dwordnet.database.dir=main\resources\wordnet-dict\ main.java.spatialrelex.Main -test <YOUR TEST DIRECTORY>
 
-*The annotated output in both cases will be writtent to the `src\output\` folder*.
+*The annotated output in both cases will be written to the `src\output\` folder*.
 
 #### Citation:
 
