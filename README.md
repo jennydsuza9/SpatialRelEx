@@ -7,7 +7,7 @@ The SpatialRelEx tool has been written in Java and is released as free software.
 
 #### Prerequisites:
 
-1) Input data must be in `xml` format.
+1) Input data must be in `xml` format. ([SpaceEval](http://alt.qcri.org/semeval2015/task8/) data used to train, develop, and test **SpatialRelEx** has been provided in the `main\resources\space-eval` folder.)
 
 2) External libraries not included in this download but used by the tool are [Apache Commons IO v2.4](https://commons.apache.org/proper/commons-io/download_io.cgi) and [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml#Download). Before running the tool, these libraries must be downloaded and the Java classpath must be set with the paths to the library `jar` files.
 
@@ -29,4 +29,4 @@ The relation extraction system is described in:
 
 Sieve-Based Spatial Relation Extraction with Expanding Parse Trees. Jennifer D'Souza and Vincent Ng. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 758–768.
 
-*Please note: The experimental setup of SpatialRelEx in Usage #1 is 1-fold cross validation, and hence it's output evaluation may differ from the paper in which the experimental setup was 5-fold cross validation. But the methodology for extracting spatial relations is implemented exactly as described in the paper. With slight modification to the source code, which enables five-fold cross validation results, it should be able to produce the results in the paper.*
+*Please note: The experimental setup of SpatialRelEx in Usage #1 is 1-fold cross validation, and hence it's output evaluation may differ from the paper in which the experimental setup was 5-fold cross validation. But the methodology for extracting spatial relations is implemented exactly as described in the paper. With slight modification to the source code enabling five-fold cross validation, it should be able to produce the results in the paper.*
